@@ -1,0 +1,75 @@
+<!doctype html>
+<style>
+body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif; margin: 2rem; }
+header { display: flex; align-items: baseline; gap: 1rem; }
+h1 { margin: 0; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; margin-top: 1rem; }
+.card { border: 1px solid #e5e7eb; border-radius: 14px; padding: 12px; display: flex; gap: 12px; align-items: center; }
+.cover { width: 64px; height: 64px; border-radius: 10px; object-fit: cover; }
+.meta { display: grid; gap: 4px; }
+.title { font-weight: 600; }
+.artist, .when { color: #6b7280; font-size: 0.9rem; }
+.group { margin-top: 2rem; }
+.group h2 { font-size: 1rem; color: #374151; margin: 0 0 .5rem 0; text-transform: uppercase; letter-spacing: .06em; }
+a { color: inherit; text-decoration-thickness: 2px; }
+</style>
+</head>
+<body>
+<header>
+<h1>My Spotify Listening History</h1>
+<small id="count"></small>
+</header>
+<div id="content"></div>
+<script>
+async function load() {
+const res = await fetch('data/latest.json'); // lighter file for the page
+const items = await res.json();
+document.getElementById('count').textContent = `${items.length} recent plays`;
+
+
+// group by local date
+const groups = new Map();
+for (const it of items) {
+const d = new Date(it.played_at);
+const key = d.toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: 'numeric' });
+if (!groups.has(key)) groups.set(key, []);
+groups.get(key).push(it);
+}
+
+
+const content = document.getElementById('content');
+for (const [date, arr] of groups) {
+const section = document.createElement('section');
+section.className = 'group';
+section.innerHTML = `<h2>${date}</h2>`;
+const grid = document.createElement('div');
+grid.className = 'grid';
+arr.forEach(it => {
+const art = it.track.album.images?.[0]?.url;
+const artists = (it.track.artists || []).map(a => a.name).join(', ');
+const when = new Date(it.played_at).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+const card = document.createElement('a');
+card.href = it.track.external_url || '#';
+card.target = '_blank';
+card.rel = 'noopener';
+card.className = 'card';
+card.innerHTML = `
+<img class="cover" src="${art || ''}" alt="album art" />
+<div class="meta">
+<div class="title">${it.track.name}</div>
+<div class="artist">${artists}</div>
+<div class="when">${when}</div>
+</div>`;
+grid.appendChild(card);
+});
+section.appendChild(grid);
+content.appendChild(section);
+}
+}
+load().catch(err => {
+document.getElementById('content').textContent = 'Failed to load history.';
+console.error(err);
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+{
+    "name": "spotify-history",
+    "private": true,
+    "type": "module",
+    "scripts": {
+    "update": "node scripts/update-listening-history.mjs",
+    "auth": "node scripts/auth-local.mjs"
+    }
+    }
