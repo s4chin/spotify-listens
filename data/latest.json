@@ -1,5 +1,767 @@
 [
   {
+    "played_at": "2025-09-23T22:54:35.141Z",
+    "track": {
+      "id": "6tJFtthY0rI1x06qb8NjK0",
+      "name": "The Mandalorian",
+      "uri": "spotify:track:6tJFtthY0rI1x06qb8NjK0",
+      "external_url": "https://open.spotify.com/track/6tJFtthY0rI1x06qb8NjK0",
+      "duration_ms": 198861,
+      "artists": [
+        {
+          "id": "24eDfi2MSYo3A87hCcgpIL",
+          "name": "Ludwig Göransson",
+          "uri": "spotify:artist:24eDfi2MSYo3A87hCcgpIL",
+          "external_url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "album": {
+        "id": "4xFmHg5dYvaqmn9ZNQpjWL",
+        "name": "The Mandalorian: Chapter 1 (Original Score)",
+        "uri": "spotify:album:4xFmHg5dYvaqmn9ZNQpjWL",
+        "external_url": "https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273d35e660d944b0601765fc32a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02d35e660d944b0601765fc32a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851d35e660d944b0601765fc32a",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T22:54:01.367Z",
+    "track": {
+      "id": "1vPEPhmGDnp8RR6GCBozaa",
+      "name": "A Lannister Always Pays His Debts",
+      "uri": "spotify:track:1vPEPhmGDnp8RR6GCBozaa",
+      "external_url": "https://open.spotify.com/track/1vPEPhmGDnp8RR6GCBozaa",
+      "duration_ms": 170560,
+      "artists": [
+        {
+          "id": "1hCkSJcXREhrodeIHQdav8",
+          "name": "Ramin Djawadi",
+          "uri": "spotify:artist:1hCkSJcXREhrodeIHQdav8",
+          "external_url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "album": {
+        "id": "41zMFsCjcGenYKVJYUXU2n",
+        "name": "Game Of Thrones: Season 3 (Music from the HBO Series)",
+        "uri": "spotify:album:41zMFsCjcGenYKVJYUXU2n",
+        "external_url": "https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27362be9b16adb2e32aed9bda26",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0262be9b16adb2e32aed9bda26",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485162be9b16adb2e32aed9bda26",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T22:48:25.348Z",
+    "track": {
+      "id": "420y9qWviZ4cdneynQWSKr",
+      "name": "March of the Resistance",
+      "uri": "spotify:track:420y9qWviZ4cdneynQWSKr",
+      "external_url": "https://open.spotify.com/track/420y9qWviZ4cdneynQWSKr",
+      "duration_ms": 155906,
+      "artists": [
+        {
+          "id": "3dRfiJ2650SZu6GbydcHNb",
+          "name": "John Williams",
+          "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb",
+          "external_url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "album": {
+        "id": "3fUKGTsiYL1kSroBWBLmmR",
+        "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
+        "uri": "spotify:album:3fUKGTsiYL1kSroBWBLmmR",
+        "external_url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e2add5f2d1440a02e4e10a75",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e2add5f2d1440a02e4e10a75",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e2add5f2d1440a02e4e10a75",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T22:45:49.341Z",
+    "track": {
+      "id": "2O8AQadTJzQ3wdhSNRHdYg",
+      "name": "The King of the Golden Hall",
+      "uri": "spotify:track:2O8AQadTJzQ3wdhSNRHdYg",
+      "external_url": "https://open.spotify.com/track/2O8AQadTJzQ3wdhSNRHdYg",
+      "duration_ms": 229440,
+      "artists": [
+        {
+          "id": "0OcclcP5o8VKH2TRqSY2A7",
+          "name": "Howard Shore",
+          "uri": "spotify:artist:0OcclcP5o8VKH2TRqSY2A7",
+          "external_url": "https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7"
+        }
+      ],
+      "album": {
+        "id": "1zIoYLpYOq8d4HFzHJ7vc8",
+        "name": "The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack)",
+        "uri": "spotify:album:1zIoYLpYOq8d4HFzHJ7vc8",
+        "external_url": "https://open.spotify.com/album/1zIoYLpYOq8d4HFzHJ7vc8",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02dae458513b856d6255f857a7",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851dae458513b856d6255f857a7",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T22:41:59.801Z",
+    "track": {
+      "id": "1Z1R6FwnQdTiVIwKGgUDUj",
+      "name": "Main Title",
+      "uri": "spotify:track:1Z1R6FwnQdTiVIwKGgUDUj",
+      "external_url": "https://open.spotify.com/track/1Z1R6FwnQdTiVIwKGgUDUj",
+      "duration_ms": 109896,
+      "artists": [
+        {
+          "id": "3lh6JVXJU1mcXuI7ctT4gh",
+          "name": "Carlos Rafael Rivera",
+          "uri": "spotify:artist:3lh6JVXJU1mcXuI7ctT4gh",
+          "external_url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "album": {
+        "id": "7Gdn94u4xTxoIpfq2rZci9",
+        "name": "The Queen's Gambit (Music from the Netflix Limited Series)",
+        "uri": "spotify:album:7Gdn94u4xTxoIpfq2rZci9",
+        "external_url": "https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e025c31c2a42a670aef0c883c43",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048515c31c2a42a670aef0c883c43",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T22:40:09.759Z",
+    "track": {
+      "id": "7C7VLxXI4bX0JWzWVBRaTH",
+      "name": "The Godfather Waltz (Main Title) - From \"The Godfather\" Soundtrack",
+      "uri": "spotify:track:7C7VLxXI4bX0JWzWVBRaTH",
+      "external_url": "https://open.spotify.com/track/7C7VLxXI4bX0JWzWVBRaTH",
+      "duration_ms": 185466,
+      "artists": [
+        {
+          "id": "0RYyGExpy57GLGa1GtFoVo",
+          "name": "Nino Rota",
+          "uri": "spotify:artist:0RYyGExpy57GLGa1GtFoVo",
+          "external_url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
+        },
+        {
+          "id": "0JPH3a8DUy38JvZsdhmEnC",
+          "name": "Carlo Savina",
+          "uri": "spotify:artist:0JPH3a8DUy38JvZsdhmEnC",
+          "external_url": "https://open.spotify.com/artist/0JPH3a8DUy38JvZsdhmEnC"
+        }
+      ],
+      "album": {
+        "id": "7hBpMvQgZzFVt8LQOsUJFY",
+        "name": "Love Theme From \"The Godfather\" / The Godfather Waltz (Main Title)",
+        "uri": "spotify:album:7hBpMvQgZzFVt8LQOsUJFY",
+        "external_url": "https://open.spotify.com/album/7hBpMvQgZzFVt8LQOsUJFY",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f2c15766a9a514511a48f3b1",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f2c15766a9a514511a48f3b1",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f2c15766a9a514511a48f3b1",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T22:37:04.068Z",
+    "track": {
+      "id": "1FL7eUG80aeUeyMO2N4btN",
+      "name": "Mission: Impossible Theme",
+      "uri": "spotify:track:1FL7eUG80aeUeyMO2N4btN",
+      "external_url": "https://open.spotify.com/track/1FL7eUG80aeUeyMO2N4btN",
+      "duration_ms": 51800,
+      "artists": [
+        {
+          "id": "4kLvhMAuCloLxoP1aVM7Lr",
+          "name": "Michael Giacchino",
+          "uri": "spotify:artist:4kLvhMAuCloLxoP1aVM7Lr",
+          "external_url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "album": {
+        "id": "1FuLQGtfibFyfzSDDiEUhK",
+        "name": "Mission: Impossible III (Music From The Original Motion Picture Soundtrack)",
+        "uri": "spotify:album:1FuLQGtfibFyfzSDDiEUhK",
+        "external_url": "https://open.spotify.com/album/1FuLQGtfibFyfzSDDiEUhK",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b85f6d3142ef01d48b94480e",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b85f6d3142ef01d48b94480e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b85f6d3142ef01d48b94480e",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T22:36:13.491Z",
+    "track": {
+      "id": "3fr220xo6nu5ysW16DjsXi",
+      "name": "Buckbeak's Flight",
+      "uri": "spotify:track:3fr220xo6nu5ysW16DjsXi",
+      "external_url": "https://open.spotify.com/track/3fr220xo6nu5ysW16DjsXi",
+      "duration_ms": 128466,
+      "artists": [
+        {
+          "id": "3dRfiJ2650SZu6GbydcHNb",
+          "name": "John Williams",
+          "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb",
+          "external_url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "album": {
+        "id": "7DDls7RWrCLvZgTVCJgfcq",
+        "name": "Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack",
+        "uri": "spotify:album:7DDls7RWrCLvZgTVCJgfcq",
+        "external_url": "https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273585f19adb14e7c92d9ec1b41",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02585f19adb14e7c92d9ec1b41",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851585f19adb14e7c92d9ec1b41",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T22:35:26.566Z",
+    "track": {
+      "id": "7tsT6EN0FB79zm7Nliz7Or",
+      "name": "William Tell Overture",
+      "uri": "spotify:track:7tsT6EN0FB79zm7Nliz7Or",
+      "external_url": "https://open.spotify.com/track/7tsT6EN0FB79zm7Nliz7Or",
+      "duration_ms": 184306,
+      "artists": [
+        {
+          "id": "0roWUeP7Ac4yK4VN6L2gF4",
+          "name": "Gioachino Rossini",
+          "uri": "spotify:artist:0roWUeP7Ac4yK4VN6L2gF4",
+          "external_url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "id": "2JQBcP1ceEAdwHM6cvSCv8",
+          "name": "Arthur Fiedler",
+          "uri": "spotify:artist:2JQBcP1ceEAdwHM6cvSCv8",
+          "external_url": "https://open.spotify.com/artist/2JQBcP1ceEAdwHM6cvSCv8"
+        },
+        {
+          "id": "7CIcEIOiWaZcEH35cpsdZq",
+          "name": "Boston Pops Orchestra",
+          "uri": "spotify:artist:7CIcEIOiWaZcEH35cpsdZq",
+          "external_url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+        }
+      ],
+      "album": {
+        "id": "21UDMpeMliL5iiJwDHGHVm",
+        "name": "Classics - Greatest Hits",
+        "uri": "spotify:album:21UDMpeMliL5iiJwDHGHVm",
+        "external_url": "https://open.spotify.com/album/21UDMpeMliL5iiJwDHGHVm",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2733b3aa5aff95f63cc237b2f82",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e023b3aa5aff95f63cc237b2f82",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048513b3aa5aff95f63cc237b2f82",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T22:35:19.423Z",
+    "track": {
+      "id": "0VfcYOujgf9JDAgwlgu1qm",
+      "name": "Many Meetings",
+      "uri": "spotify:track:0VfcYOujgf9JDAgwlgu1qm",
+      "external_url": "https://open.spotify.com/track/0VfcYOujgf9JDAgwlgu1qm",
+      "duration_ms": 185426,
+      "artists": [
+        {
+          "id": "0OcclcP5o8VKH2TRqSY2A7",
+          "name": "Howard Shore",
+          "uri": "spotify:artist:0OcclcP5o8VKH2TRqSY2A7",
+          "external_url": "https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7"
+        }
+      ],
+      "album": {
+        "id": "04rz93AqGy9JduzV3K81Dh",
+        "name": "The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack)",
+        "uri": "spotify:album:04rz93AqGy9JduzV3K81Dh",
+        "external_url": "https://open.spotify.com/album/04rz93AqGy9JduzV3K81Dh",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02128ca6b63d83d47c909a43ce",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851128ca6b63d83d47c909a43ce",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T22:27:53.679Z",
+    "track": {
+      "id": "50csT5Qb2qOF7lHdDQ1Sbx",
+      "name": "The Batman Theme",
+      "uri": "spotify:track:50csT5Qb2qOF7lHdDQ1Sbx",
+      "external_url": "https://open.spotify.com/track/50csT5Qb2qOF7lHdDQ1Sbx",
+      "duration_ms": 158333,
+      "artists": [
+        {
+          "id": "5qBZETtyzfYnXOobDXbmcD",
+          "name": "Danny Elfman",
+          "uri": "spotify:artist:5qBZETtyzfYnXOobDXbmcD",
+          "external_url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "album": {
+        "id": "1zqfyMgA1aXwVDbukfqSdE",
+        "name": "Batman (Original Motion Picture Score)",
+        "uri": "spotify:album:1zqfyMgA1aXwVDbukfqSdE",
+        "external_url": "https://open.spotify.com/album/1zqfyMgA1aXwVDbukfqSdE",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f5ee870e082d6f11d000554e",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f5ee870e082d6f11d000554e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f5ee870e082d6f11d000554e",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T22:25:14.747Z",
+    "track": {
+      "id": "3WoKGCQENAoYNu1NTrdLdy",
+      "name": "The Godfather Finale",
+      "uri": "spotify:track:3WoKGCQENAoYNu1NTrdLdy",
+      "external_url": "https://open.spotify.com/track/3WoKGCQENAoYNu1NTrdLdy",
+      "duration_ms": 230733,
+      "artists": [
+        {
+          "id": "0RYyGExpy57GLGa1GtFoVo",
+          "name": "Nino Rota",
+          "uri": "spotify:artist:0RYyGExpy57GLGa1GtFoVo",
+          "external_url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
+        },
+        {
+          "id": "0JPH3a8DUy38JvZsdhmEnC",
+          "name": "Carlo Savina",
+          "uri": "spotify:artist:0JPH3a8DUy38JvZsdhmEnC",
+          "external_url": "https://open.spotify.com/artist/0JPH3a8DUy38JvZsdhmEnC"
+        }
+      ],
+      "album": {
+        "id": "5CeLOKEJeP3EpEdT9v2lep",
+        "name": "The Godfather",
+        "uri": "spotify:album:5CeLOKEJeP3EpEdT9v2lep",
+        "external_url": "https://open.spotify.com/album/5CeLOKEJeP3EpEdT9v2lep",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a0fc6fd292bab2be473cbabe",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a0fc6fd292bab2be473cbabe",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a0fc6fd292bab2be473cbabe",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T22:24:17.846Z",
+    "track": {
+      "id": "1n8NKQRg8LVHy7oUhUgbFF",
+      "name": "Hedwig's Theme",
+      "uri": "spotify:track:1n8NKQRg8LVHy7oUhUgbFF",
+      "external_url": "https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF",
+      "duration_ms": 309093,
+      "artists": [
+        {
+          "id": "3dRfiJ2650SZu6GbydcHNb",
+          "name": "John Williams",
+          "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb",
+          "external_url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "album": {
+        "id": "6zeHM5CV0CjcS0K8ouWE4N",
+        "name": "Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack",
+        "uri": "spotify:album:6zeHM5CV0CjcS0K8ouWE4N",
+        "external_url": "https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27313f982aa5c43146c3d2c1964",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0213f982aa5c43146c3d2c1964",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485113f982aa5c43146c3d2c1964",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T22:16:14.351Z",
+    "track": {
+      "id": "0juPSJLFnLFim7BK6VzTes",
+      "name": "The Pink Panther Theme - From \"The Pink Panther\"",
+      "uri": "spotify:track:0juPSJLFnLFim7BK6VzTes",
+      "external_url": "https://open.spotify.com/track/0juPSJLFnLFim7BK6VzTes",
+      "duration_ms": 157680,
+      "artists": [
+        {
+          "id": "2EExdpjU4SK3xnJHO5paJf",
+          "name": "Henry Mancini",
+          "uri": "spotify:artist:2EExdpjU4SK3xnJHO5paJf",
+          "external_url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        },
+        {
+          "id": "4Xqx9yiQsWMNXE2oKbm5uc",
+          "name": "Plas Johnson",
+          "uri": "spotify:artist:4Xqx9yiQsWMNXE2oKbm5uc",
+          "external_url": "https://open.spotify.com/artist/4Xqx9yiQsWMNXE2oKbm5uc"
+        }
+      ],
+      "album": {
+        "id": "4fEGGDaDNDLvXPylhbJdBy",
+        "name": "The Pink Panther - Original Soundtrack",
+        "uri": "spotify:album:4fEGGDaDNDLvXPylhbJdBy",
+        "external_url": "https://open.spotify.com/album/4fEGGDaDNDLvXPylhbJdBy",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e97407bb9fdb339614c3c7c1",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e97407bb9fdb339614c3c7c1",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e97407bb9fdb339614c3c7c1",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T22:16:05.273Z",
+    "track": {
+      "id": "5duZVZ4m1TaJDTCbeHG8TG",
+      "name": "Raiders March",
+      "uri": "spotify:track:5duZVZ4m1TaJDTCbeHG8TG",
+      "external_url": "https://open.spotify.com/track/5duZVZ4m1TaJDTCbeHG8TG",
+      "duration_ms": 305640,
+      "artists": [
+        {
+          "id": "3dRfiJ2650SZu6GbydcHNb",
+          "name": "John Williams",
+          "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb",
+          "external_url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "album": {
+        "id": "0oLE7gLc5TVEsJzuY6Dxf5",
+        "name": "Indiana Jones and the Kingdom of the Crystal Skull (Original Motion Picture Soundtrack)",
+        "uri": "spotify:album:0oLE7gLc5TVEsJzuY6Dxf5",
+        "external_url": "https://open.spotify.com/album/0oLE7gLc5TVEsJzuY6Dxf5",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2730a452f11023f2597a7852dfa",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e020a452f11023f2597a7852dfa",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048510a452f11023f2597a7852dfa",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T22:13:42.561Z",
+    "track": {
+      "id": "3mGkPsZbHEBf8ZT1ExZnww",
+      "name": "Scent of a Woman: Tango (Por Una Cabeza)",
+      "uri": "spotify:track:3mGkPsZbHEBf8ZT1ExZnww",
+      "external_url": "https://open.spotify.com/track/3mGkPsZbHEBf8ZT1ExZnww",
+      "duration_ms": 231160,
+      "artists": [
+        {
+          "id": "05Q9xndTxhXhD5trpmTtfU",
+          "name": "Carlos Gardel",
+          "uri": "spotify:artist:05Q9xndTxhXhD5trpmTtfU",
+          "external_url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
+        },
+        {
+          "id": "0hIG9FXgjQxT8fKaYceFbA",
+          "name": "Itzhak Perlman",
+          "uri": "spotify:artist:0hIG9FXgjQxT8fKaYceFbA",
+          "external_url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "id": "3dRfiJ2650SZu6GbydcHNb",
+          "name": "John Williams",
+          "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb",
+          "external_url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "id": "7oOCHAPJjD7IARb5hrzvw9",
+          "name": "Pittsburgh Symphony Orchestra",
+          "uri": "spotify:artist:7oOCHAPJjD7IARb5hrzvw9",
+          "external_url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
+        }
+      ],
+      "album": {
+        "id": "7fYlJ1HNLfs6JIvJCJ2rqq",
+        "name": "Cinema Serenade",
+        "uri": "spotify:album:7fYlJ1HNLfs6JIvJCJ2rqq",
+        "external_url": "https://open.spotify.com/album/7fYlJ1HNLfs6JIvJCJ2rqq",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2730267c7c4063b992b1f7ae1ca",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e020267c7c4063b992b1f7ae1ca",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048510267c7c4063b992b1f7ae1ca",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T22:13:40.485Z",
+    "track": {
+      "id": "644es5aYPJghtZLjM1rmSP",
+      "name": "Concerning Hobbits",
+      "uri": "spotify:track:644es5aYPJghtZLjM1rmSP",
+      "external_url": "https://open.spotify.com/track/644es5aYPJghtZLjM1rmSP",
+      "duration_ms": 175040,
+      "artists": [
+        {
+          "id": "0OcclcP5o8VKH2TRqSY2A7",
+          "name": "Howard Shore",
+          "uri": "spotify:artist:0OcclcP5o8VKH2TRqSY2A7",
+          "external_url": "https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7"
+        }
+      ],
+      "album": {
+        "id": "04rz93AqGy9JduzV3K81Dh",
+        "name": "The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack)",
+        "uri": "spotify:album:04rz93AqGy9JduzV3K81Dh",
+        "external_url": "https://open.spotify.com/album/04rz93AqGy9JduzV3K81Dh",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02128ca6b63d83d47c909a43ce",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851128ca6b63d83d47c909a43ce",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
     "played_at": "2025-09-23T22:07:55.038Z",
     "track": {
       "id": "08QaHlMPWuO5PUxjl61bXn",
@@ -3778,501 +4540,6 @@
           {
             "height": 64,
             "url": "https://i.scdn.co/image/ab67616d0000485154242c21ccf8f580072b16e8",
-            "width": 64
-          }
-        ]
-      }
-    },
-    "context": {
-      "type": "playlist",
-      "uri": "spotify:playlist:37i9dQZF1E4tZfOkTK6a9x"
-    }
-  },
-  {
-    "played_at": "2025-09-20T01:38:46.607Z",
-    "track": {
-      "id": "4L5bxEwRtAc0Z3ZFYSItGm",
-      "name": "Panique",
-      "uri": "spotify:track:4L5bxEwRtAc0Z3ZFYSItGm",
-      "external_url": "https://open.spotify.com/track/4L5bxEwRtAc0Z3ZFYSItGm",
-      "duration_ms": 211986,
-      "artists": [
-        {
-          "id": "1vxsourLLLfobrxyWAcuQH",
-          "name": "Juniore",
-          "uri": "spotify:artist:1vxsourLLLfobrxyWAcuQH",
-          "external_url": "https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH"
-        }
-      ],
-      "album": {
-        "id": "2Nm6bqrT8wLX9axdr0izfn",
-        "name": "Ouh là là (Bonus)",
-        "uri": "spotify:album:2Nm6bqrT8wLX9axdr0izfn",
-        "external_url": "https://open.spotify.com/album/2Nm6bqrT8wLX9axdr0izfn",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273fd1bcf219c6079e6f73f415f",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02fd1bcf219c6079e6f73f415f",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851fd1bcf219c6079e6f73f415f",
-            "width": 64
-          }
-        ]
-      }
-    },
-    "context": {
-      "type": "playlist",
-      "uri": "spotify:playlist:37i9dQZF1E4tZfOkTK6a9x"
-    }
-  },
-  {
-    "played_at": "2025-09-20T01:32:46.550Z",
-    "track": {
-      "id": "3t9AQbyfGnVbe3xuTg9PEX",
-      "name": "La femme à la peau bleue",
-      "uri": "spotify:track:3t9AQbyfGnVbe3xuTg9PEX",
-      "external_url": "https://open.spotify.com/track/3t9AQbyfGnVbe3xuTg9PEX",
-      "duration_ms": 206546,
-      "artists": [
-        {
-          "id": "0wuuYZFptujAsRthrdea2B",
-          "name": "Vendredi sur Mer",
-          "uri": "spotify:artist:0wuuYZFptujAsRthrdea2B",
-          "external_url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
-        }
-      ],
-      "album": {
-        "id": "3VCwYQFMhuSzcuQ1B33TNZ",
-        "name": "Premiers émois",
-        "uri": "spotify:album:3VCwYQFMhuSzcuQ1B33TNZ",
-        "external_url": "https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2736c3207ba7949291a8114b491",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e026c3207ba7949291a8114b491",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048516c3207ba7949291a8114b491",
-            "width": 64
-          }
-        ]
-      }
-    },
-    "context": {
-      "type": "playlist",
-      "uri": "spotify:playlist:37i9dQZF1E4tZfOkTK6a9x"
-    }
-  },
-  {
-    "played_at": "2025-09-20T01:29:16.705Z",
-    "track": {
-      "id": "00JRUvdwqCvf2sWeKbYdS9",
-      "name": "L'amour",
-      "uri": "spotify:track:00JRUvdwqCvf2sWeKbYdS9",
-      "external_url": "https://open.spotify.com/track/00JRUvdwqCvf2sWeKbYdS9",
-      "duration_ms": 206007,
-      "artists": [
-        {
-          "id": "2iGwIqfIXRskkGakunO9sf",
-          "name": "Miel De Montagne",
-          "uri": "spotify:artist:2iGwIqfIXRskkGakunO9sf",
-          "external_url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
-        }
-      ],
-      "album": {
-        "id": "0IOiwcIywlRenbyorrUzJO",
-        "name": "Miel de Montagne",
-        "uri": "spotify:album:0IOiwcIywlRenbyorrUzJO",
-        "external_url": "https://open.spotify.com/album/0IOiwcIywlRenbyorrUzJO",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2739cccb0fa242f56e6e627875e",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e029cccb0fa242f56e6e627875e",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048519cccb0fa242f56e6e627875e",
-            "width": 64
-          }
-        ]
-      }
-    },
-    "context": {
-      "type": "playlist",
-      "uri": "spotify:playlist:37i9dQZF1E4tZfOkTK6a9x"
-    }
-  },
-  {
-    "played_at": "2025-09-20T01:28:08.983Z",
-    "track": {
-      "id": "7v3zsFlSU28kiv3sqRAPNl",
-      "name": "Moi je joue",
-      "uri": "spotify:track:7v3zsFlSU28kiv3sqRAPNl",
-      "external_url": "https://open.spotify.com/track/7v3zsFlSU28kiv3sqRAPNl",
-      "duration_ms": 102666,
-      "artists": [
-        {
-          "id": "1q24xIsAD7JZuVkTLR9TJy",
-          "name": "Brigitte Bardot",
-          "uri": "spotify:artist:1q24xIsAD7JZuVkTLR9TJy",
-          "external_url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
-        }
-      ],
-      "album": {
-        "id": "1Rvk3tavC4U97f1UObfsnb",
-        "name": "Bubble Gum",
-        "uri": "spotify:album:1Rvk3tavC4U97f1UObfsnb",
-        "external_url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273950e076c1a71a2a3215ffafe",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02950e076c1a71a2a3215ffafe",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851950e076c1a71a2a3215ffafe",
-            "width": 64
-          }
-        ]
-      }
-    },
-    "context": {
-      "type": "playlist",
-      "uri": "spotify:playlist:37i9dQZF1E4tZfOkTK6a9x"
-    }
-  },
-  {
-    "played_at": "2025-09-20T01:27:36.762Z",
-    "track": {
-      "id": "3aFIzFbDFFyswW4ocx2q1X",
-      "name": "La fac de lettres",
-      "uri": "spotify:track:3aFIzFbDFFyswW4ocx2q1X",
-      "external_url": "https://open.spotify.com/track/3aFIzFbDFFyswW4ocx2q1X",
-      "duration_ms": 167626,
-      "artists": [
-        {
-          "id": "2gaXk926O69Od01e5CSFdH",
-          "name": "Jacqueline Taieb",
-          "uri": "spotify:artist:2gaXk926O69Od01e5CSFdH",
-          "external_url": "https://open.spotify.com/artist/2gaXk926O69Od01e5CSFdH"
-        }
-      ],
-      "album": {
-        "id": "61emYO8kHDuDFWjKS2aELG",
-        "name": "Jacqueline Taïeb",
-        "uri": "spotify:album:61emYO8kHDuDFWjKS2aELG",
-        "external_url": "https://open.spotify.com/album/61emYO8kHDuDFWjKS2aELG",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2736491022567e355d8633f5ff2",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e026491022567e355d8633f5ff2",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048516491022567e355d8633f5ff2",
-            "width": 64
-          }
-        ]
-      }
-    },
-    "context": {
-      "type": "playlist",
-      "uri": "spotify:playlist:37i9dQZF1E4tZfOkTK6a9x"
-    }
-  },
-  {
-    "played_at": "2025-09-20T01:26:29.626Z",
-    "track": {
-      "id": "2F1JWIIIHQhyWRGaj4N50o",
-      "name": "Dans le noir",
-      "uri": "spotify:track:2F1JWIIIHQhyWRGaj4N50o",
-      "external_url": "https://open.spotify.com/track/2F1JWIIIHQhyWRGaj4N50o",
-      "duration_ms": 174800,
-      "artists": [
-        {
-          "id": "1vxsourLLLfobrxyWAcuQH",
-          "name": "Juniore",
-          "uri": "spotify:artist:1vxsourLLLfobrxyWAcuQH",
-          "external_url": "https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH"
-        }
-      ],
-      "album": {
-        "id": "3dMzuwgwNlTuf1eOTsT54d",
-        "name": "Juniore",
-        "uri": "spotify:album:3dMzuwgwNlTuf1eOTsT54d",
-        "external_url": "https://open.spotify.com/album/3dMzuwgwNlTuf1eOTsT54d",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2734425fd2120e633b26f93f170",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e024425fd2120e633b26f93f170",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048514425fd2120e633b26f93f170",
-            "width": 64
-          }
-        ]
-      }
-    },
-    "context": {
-      "type": "playlist",
-      "uri": "spotify:playlist:37i9dQZF1E4tZfOkTK6a9x"
-    }
-  },
-  {
-    "played_at": "2025-09-20T01:17:51.500Z",
-    "track": {
-      "id": "2L9tyXZdphjAAOitQrjIp3",
-      "name": "Adélaïde",
-      "uri": "spotify:track:2L9tyXZdphjAAOitQrjIp3",
-      "external_url": "https://open.spotify.com/track/2L9tyXZdphjAAOitQrjIp3",
-      "duration_ms": 172360,
-      "artists": [
-        {
-          "id": "7hstPLRSo0ipNnICMpTN5g",
-          "name": "Requin Chagrin",
-          "uri": "spotify:artist:7hstPLRSo0ipNnICMpTN5g",
-          "external_url": "https://open.spotify.com/artist/7hstPLRSo0ipNnICMpTN5g"
-        }
-      ],
-      "album": {
-        "id": "3QSG48zatZIByTZuUs4XYA",
-        "name": "Requin Chagrin",
-        "uri": "spotify:album:3QSG48zatZIByTZuUs4XYA",
-        "external_url": "https://open.spotify.com/album/3QSG48zatZIByTZuUs4XYA",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2735b04ce34fbf13b06303ad86e",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e025b04ce34fbf13b06303ad86e",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048515b04ce34fbf13b06303ad86e",
-            "width": 64
-          }
-        ]
-      }
-    },
-    "context": {
-      "type": "playlist",
-      "uri": "spotify:playlist:37i9dQZF1E4tZfOkTK6a9x"
-    }
-  },
-  {
-    "played_at": "2025-09-20T01:07:46.594Z",
-    "track": {
-      "id": "6pJrDcYRjFgvq5k2CU8h03",
-      "name": "Si un jour",
-      "uri": "spotify:track:6pJrDcYRjFgvq5k2CU8h03",
-      "external_url": "https://open.spotify.com/track/6pJrDcYRjFgvq5k2CU8h03",
-      "duration_ms": 158413,
-      "artists": [
-        {
-          "id": "5VTWoYYizcOY3uIKnxeCGI",
-          "name": "La Femme",
-          "uri": "spotify:artist:5VTWoYYizcOY3uIKnxeCGI",
-          "external_url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
-        }
-      ],
-      "album": {
-        "id": "7tzlVJedDBNAlH4BJHRKLp",
-        "name": "Psycho Tropical Berlin",
-        "uri": "spotify:album:7tzlVJedDBNAlH4BJHRKLp",
-        "external_url": "https://open.spotify.com/album/7tzlVJedDBNAlH4BJHRKLp",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273d7e9d36037713a91d47f6515",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02d7e9d36037713a91d47f6515",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851d7e9d36037713a91d47f6515",
-            "width": 64
-          }
-        ]
-      }
-    },
-    "context": {
-      "type": "playlist",
-      "uri": "spotify:playlist:37i9dQZF1E4tZfOkTK6a9x"
-    }
-  },
-  {
-    "played_at": "2025-09-20T01:03:46.699Z",
-    "track": {
-      "id": "4fbROrr3YBN8LuyeSWgNDP",
-      "name": "Je fais le mort",
-      "uri": "spotify:track:4fbROrr3YBN8LuyeSWgNDP",
-      "external_url": "https://open.spotify.com/track/4fbROrr3YBN8LuyeSWgNDP",
-      "duration_ms": 223240,
-      "artists": [
-        {
-          "id": "1vxsourLLLfobrxyWAcuQH",
-          "name": "Juniore",
-          "uri": "spotify:artist:1vxsourLLLfobrxyWAcuQH",
-          "external_url": "https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH"
-        }
-      ],
-      "album": {
-        "id": "3gJadSjtUIGmFNcnM8CUua",
-        "name": "Marabout",
-        "uri": "spotify:album:3gJadSjtUIGmFNcnM8CUua",
-        "external_url": "https://open.spotify.com/album/3gJadSjtUIGmFNcnM8CUua",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2737bb26f18a17a121b0e3c2a7f",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e027bb26f18a17a121b0e3c2a7f",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048517bb26f18a17a121b0e3c2a7f",
-            "width": 64
-          }
-        ]
-      }
-    },
-    "context": {
-      "type": "playlist",
-      "uri": "spotify:playlist:37i9dQZF1E4tZfOkTK6a9x"
-    }
-  },
-  {
-    "played_at": "2025-09-20T00:59:46.536Z",
-    "track": {
-      "id": "4CeHrAL1fGUi94RIk3Z2H2",
-      "name": "7 heures du matin",
-      "uri": "spotify:track:4CeHrAL1fGUi94RIk3Z2H2",
-      "external_url": "https://open.spotify.com/track/4CeHrAL1fGUi94RIk3Z2H2",
-      "duration_ms": 136933,
-      "artists": [
-        {
-          "id": "2gaXk926O69Od01e5CSFdH",
-          "name": "Jacqueline Taieb",
-          "uri": "spotify:artist:2gaXk926O69Od01e5CSFdH",
-          "external_url": "https://open.spotify.com/artist/2gaXk926O69Od01e5CSFdH"
-        }
-      ],
-      "album": {
-        "id": "61emYO8kHDuDFWjKS2aELG",
-        "name": "Jacqueline Taïeb",
-        "uri": "spotify:album:61emYO8kHDuDFWjKS2aELG",
-        "external_url": "https://open.spotify.com/album/61emYO8kHDuDFWjKS2aELG",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2736491022567e355d8633f5ff2",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e026491022567e355d8633f5ff2",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048516491022567e355d8633f5ff2",
-            "width": 64
-          }
-        ]
-      }
-    },
-    "context": {
-      "type": "playlist",
-      "uri": "spotify:playlist:37i9dQZF1E4tZfOkTK6a9x"
-    }
-  },
-  {
-    "played_at": "2025-09-20T00:55:16.875Z",
-    "track": {
-      "id": "4ova3iQpOBmlIJwnQ57pZV",
-      "name": "Le cannibale",
-      "uri": "spotify:track:4ova3iQpOBmlIJwnQ57pZV",
-      "external_url": "https://open.spotify.com/track/4ova3iQpOBmlIJwnQ57pZV",
-      "duration_ms": 216800,
-      "artists": [
-        {
-          "id": "1vxsourLLLfobrxyWAcuQH",
-          "name": "Juniore",
-          "uri": "spotify:artist:1vxsourLLLfobrxyWAcuQH",
-          "external_url": "https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH"
-        }
-      ],
-      "album": {
-        "id": "2Nm6bqrT8wLX9axdr0izfn",
-        "name": "Ouh là là (Bonus)",
-        "uri": "spotify:album:2Nm6bqrT8wLX9axdr0izfn",
-        "external_url": "https://open.spotify.com/album/2Nm6bqrT8wLX9axdr0izfn",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273fd1bcf219c6079e6f73f415f",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02fd1bcf219c6079e6f73f415f",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851fd1bcf219c6079e6f73f415f",
             "width": 64
           }
         ]
