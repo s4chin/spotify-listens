@@ -1,5 +1,377 @@
 [
   {
+    "played_at": "2025-09-23T22:07:55.038Z",
+    "track": {
+      "id": "08QaHlMPWuO5PUxjl61bXn",
+      "name": "He's a Pirate",
+      "uri": "spotify:track:08QaHlMPWuO5PUxjl61bXn",
+      "external_url": "https://open.spotify.com/track/08QaHlMPWuO5PUxjl61bXn",
+      "duration_ms": 90426,
+      "artists": [
+        {
+          "id": "03GruNQP8X25PCoWzdvIGZ",
+          "name": "Klaus Badelt",
+          "uri": "spotify:artist:03GruNQP8X25PCoWzdvIGZ",
+          "external_url": "https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ"
+        }
+      ],
+      "album": {
+        "id": "4Qe057XqKloVNhnPohj6Yo",
+        "name": "Pirates of the Caribbean: The Curse of the Black Pearl (Original Motion Picture Soundtrack)",
+        "uri": "spotify:album:4Qe057XqKloVNhnPohj6Yo",
+        "external_url": "https://open.spotify.com/album/4Qe057XqKloVNhnPohj6Yo",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27338786c7492ac252797bb2648",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0238786c7492ac252797bb2648",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485138786c7492ac252797bb2648",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T22:05:25.279Z",
+    "track": {
+      "id": "5wsHtmFHWntJzcN6n8ivjd",
+      "name": "Rey's Theme",
+      "uri": "spotify:track:5wsHtmFHWntJzcN6n8ivjd",
+      "external_url": "https://open.spotify.com/track/5wsHtmFHWntJzcN6n8ivjd",
+      "duration_ms": 191066,
+      "artists": [
+        {
+          "id": "3dRfiJ2650SZu6GbydcHNb",
+          "name": "John Williams",
+          "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb",
+          "external_url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "album": {
+        "id": "3fUKGTsiYL1kSroBWBLmmR",
+        "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
+        "uri": "spotify:album:3fUKGTsiYL1kSroBWBLmmR",
+        "external_url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e2add5f2d1440a02e4e10a75",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e2add5f2d1440a02e4e10a75",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e2add5f2d1440a02e4e10a75",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T22:04:23.441Z",
+    "track": {
+      "id": "3Ii2KG3YLrC0KNbuJKAFj2",
+      "name": "The Godfather: V. Love Theme",
+      "uri": "spotify:track:3Ii2KG3YLrC0KNbuJKAFj2",
+      "external_url": "https://open.spotify.com/track/3Ii2KG3YLrC0KNbuJKAFj2",
+      "duration_ms": 170400,
+      "artists": [
+        {
+          "id": "0RYyGExpy57GLGa1GtFoVo",
+          "name": "Nino Rota",
+          "uri": "spotify:artist:0RYyGExpy57GLGa1GtFoVo",
+          "external_url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
+        },
+        {
+          "id": "7silW8RiEOoLBgAg5JBCL1",
+          "name": "Riccardo Muti",
+          "uri": "spotify:artist:7silW8RiEOoLBgAg5JBCL1",
+          "external_url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        },
+        {
+          "id": "6rQ91q7SWnpMA337zOEupl",
+          "name": "Massimo Colombo",
+          "uri": "spotify:artist:6rQ91q7SWnpMA337zOEupl",
+          "external_url": "https://open.spotify.com/artist/6rQ91q7SWnpMA337zOEupl"
+        },
+        {
+          "id": "50M4HDvsvjxF5BYChgubmq",
+          "name": "Filarmonica della Scala",
+          "uri": "spotify:artist:50M4HDvsvjxF5BYChgubmq",
+          "external_url": "https://open.spotify.com/artist/50M4HDvsvjxF5BYChgubmq"
+        },
+        {
+          "id": "62ACMwlsLkaQDAhYDgVokj",
+          "name": "Milan La Scala Philharmonic Orchestra",
+          "uri": "spotify:artist:62ACMwlsLkaQDAhYDgVokj",
+          "external_url": "https://open.spotify.com/artist/62ACMwlsLkaQDAhYDgVokj"
+        }
+      ],
+      "album": {
+        "id": "2RmQuzMwHzTTvo832chOlf",
+        "name": "Nino Rota - Musica E Sogno",
+        "uri": "spotify:album:2RmQuzMwHzTTvo832chOlf",
+        "external_url": "https://open.spotify.com/album/2RmQuzMwHzTTvo832chOlf",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27379e73c9189fc495baa4b0297",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0279e73c9189fc495baa4b0297",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485179e73c9189fc495baa4b0297",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T21:59:17.226Z",
+    "track": {
+      "id": "43YwOmGUOS3zzGvj1Feszb",
+      "name": "Also sprach Zarathustra, Op. 30: I. Prelude. Sonnenaufgang",
+      "uri": "spotify:track:43YwOmGUOS3zzGvj1Feszb",
+      "external_url": "https://open.spotify.com/track/43YwOmGUOS3zzGvj1Feszb",
+      "duration_ms": 109666,
+      "artists": [
+        {
+          "id": "6pAwHPeExeUbMd5w7Iny6D",
+          "name": "Richard Strauss",
+          "uri": "spotify:artist:6pAwHPeExeUbMd5w7Iny6D",
+          "external_url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "id": "6uRJnvQ3f8whVnmeoecv5Z",
+          "name": "Berliner Philharmoniker",
+          "uri": "spotify:artist:6uRJnvQ3f8whVnmeoecv5Z",
+          "external_url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "id": "5zCaQxjl110XTrm4LQ1CxY",
+          "name": "Herbert von Karajan",
+          "uri": "spotify:artist:5zCaQxjl110XTrm4LQ1CxY",
+          "external_url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "album": {
+        "id": "1kHbPoLRmiAHIDgYRraYU9",
+        "name": "Strauss, R.: Also sprach Zarathustra; Till Eulenspiegel; Don Juan; Salome's Dance Of The Seven Veils",
+        "uri": "spotify:album:1kHbPoLRmiAHIDgYRraYU9",
+        "external_url": "https://open.spotify.com/album/1kHbPoLRmiAHIDgYRraYU9",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273598b402e5412d8ae3cbc516a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02598b402e5412d8ae3cbc516a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851598b402e5412d8ae3cbc516a",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T21:57:27.633Z",
+    "track": {
+      "id": "589AelScFm0FYQ4VG1biJi",
+      "name": "The James Bond Theme (From \"Dr. No\")",
+      "uri": "spotify:track:589AelScFm0FYQ4VG1biJi",
+      "external_url": "https://open.spotify.com/track/589AelScFm0FYQ4VG1biJi",
+      "duration_ms": 173093,
+      "artists": [
+        {
+          "id": "7ctAOUlIAs7yuMODWE2Fyz",
+          "name": "John Barry",
+          "uri": "spotify:artist:7ctAOUlIAs7yuMODWE2Fyz",
+          "external_url": "https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz"
+        }
+      ],
+      "album": {
+        "id": "1DtpXIGGw9vQXZvKmqDmKA",
+        "name": "The Music Of John Barry",
+        "uri": "spotify:album:1DtpXIGGw9vQXZvKmqDmKA",
+        "external_url": "https://open.spotify.com/album/1DtpXIGGw9vQXZvKmqDmKA",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27359902ed094c28be89e2e05d7",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0259902ed094c28be89e2e05d7",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485159902ed094c28be89e2e05d7",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T21:54:34.056Z",
+    "track": {
+      "id": "6zW80jVqLtgSF1yCtGHiiD",
+      "name": "The Shire",
+      "uri": "spotify:track:6zW80jVqLtgSF1yCtGHiiD",
+      "external_url": "https://open.spotify.com/track/6zW80jVqLtgSF1yCtGHiiD",
+      "duration_ms": 149480,
+      "artists": [
+        {
+          "id": "0OcclcP5o8VKH2TRqSY2A7",
+          "name": "Howard Shore",
+          "uri": "spotify:artist:0OcclcP5o8VKH2TRqSY2A7",
+          "external_url": "https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7"
+        }
+      ],
+      "album": {
+        "id": "55RTkgUCP7t80hiTUhATMH",
+        "name": "The Lord of the Rings: The Fellowship of the Ring - the Complete Recordings",
+        "uri": "spotify:album:55RTkgUCP7t80hiTUhATMH",
+        "external_url": "https://open.spotify.com/album/55RTkgUCP7t80hiTUhATMH",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e028236dee9524214e0e6be4a1f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048518236dee9524214e0e6be4a1f",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T21:52:09.779Z",
+    "track": {
+      "id": "2TZbQZXOuR8osP2AK8yYMN",
+      "name": "Theme From Jurassic Park",
+      "uri": "spotify:track:2TZbQZXOuR8osP2AK8yYMN",
+      "external_url": "https://open.spotify.com/track/2TZbQZXOuR8osP2AK8yYMN",
+      "duration_ms": 207426,
+      "artists": [
+        {
+          "id": "3dRfiJ2650SZu6GbydcHNb",
+          "name": "John Williams",
+          "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb",
+          "external_url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "album": {
+        "id": "1yyFmCMeNtuLWsLZAXPStf",
+        "name": "Jurassic Park",
+        "uri": "spotify:album:1yyFmCMeNtuLWsLZAXPStf",
+        "external_url": "https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27392f051ce3c585b5c2db21d52",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0292f051ce3c585b5c2db21d52",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485192f051ce3c585b5c2db21d52",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T21:48:37.273Z",
+    "track": {
+      "id": "5duZVZ4m1TaJDTCbeHG8TG",
+      "name": "Raiders March",
+      "uri": "spotify:track:5duZVZ4m1TaJDTCbeHG8TG",
+      "external_url": "https://open.spotify.com/track/5duZVZ4m1TaJDTCbeHG8TG",
+      "duration_ms": 305640,
+      "artists": [
+        {
+          "id": "3dRfiJ2650SZu6GbydcHNb",
+          "name": "John Williams",
+          "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb",
+          "external_url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "album": {
+        "id": "0oLE7gLc5TVEsJzuY6Dxf5",
+        "name": "Indiana Jones and the Kingdom of the Crystal Skull (Original Motion Picture Soundtrack)",
+        "uri": "spotify:album:0oLE7gLc5TVEsJzuY6Dxf5",
+        "external_url": "https://open.spotify.com/album/0oLE7gLc5TVEsJzuY6Dxf5",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2730a452f11023f2597a7852dfa",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e020a452f11023f2597a7852dfa",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048510a452f11023f2597a7852dfa",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
     "played_at": "2025-09-23T18:44:11.131Z",
     "track": {
       "id": "6FNdzxV9g4NaINrejBTPUi",
