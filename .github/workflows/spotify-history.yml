@@ -1,8 +1,7 @@
-name: Update Spotify History (daily)
+name: Update Spotify History (hourly)
 
 on:
     schedule:
-        # 08:00 UTC ≈ midnight PT during standard time; adjust if you prefer.
         - cron: '0 * * * *'
     workflow_dispatch: {}
 
@@ -36,5 +35,5 @@ jobs:
                   git config user.name "github-actions"
                   git config user.email "github-actions@github.com"
                   git add data/listening-history.json data/latest.json
-                  git diff --cached --quiet && echo "No changes" || git commit -m "chore: update Spotify history $(date -u +'%Y-%m-%d')"
+                  git diff --cached --quiet && echo "No changes" || git commit -m "chore: update Spotify history $(date -u +'%Y-%m-%d %H:%M:%S')"
                   git push
