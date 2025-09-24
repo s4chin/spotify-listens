@@ -1,5 +1,557 @@
 [
   {
+    "played_at": "2025-09-24T21:04:57.776Z",
+    "track": {
+      "id": "1YOOCK06gvytuk1jPk5XdN",
+      "name": "Tema di Susie",
+      "uri": "spotify:track:1YOOCK06gvytuk1jPk5XdN",
+      "external_url": "https://open.spotify.com/track/1YOOCK06gvytuk1jPk5XdN",
+      "duration_ms": 93162,
+      "artists": [
+        {
+          "id": "6NXwJ5CEziDQrfimLpr7gZ",
+          "name": "Alessandro Alessandroni",
+          "uri": "spotify:artist:6NXwJ5CEziDQrfimLpr7gZ",
+          "external_url": "https://open.spotify.com/artist/6NXwJ5CEziDQrfimLpr7gZ"
+        }
+      ],
+      "album": {
+        "id": "1C0WsW1gknJxtpJt7OVF3K",
+        "name": "Sangue di sbirro (Original Motion Picture Soundtrack)",
+        "uri": "spotify:album:1C0WsW1gknJxtpJt7OVF3K",
+        "external_url": "https://open.spotify.com/album/1C0WsW1gknJxtpJt7OVF3K",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273957ee6f98472be24163ae296",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02957ee6f98472be24163ae296",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851957ee6f98472be24163ae296",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1E35zgIvzDcMtc"
+    }
+  },
+  {
+    "played_at": "2025-09-24T21:03:16.371Z",
+    "track": {
+      "id": "6omrZeKIeptUBZGBKL0eYJ",
+      "name": "Softly, as in a Morning Sunrise",
+      "uri": "spotify:track:6omrZeKIeptUBZGBKL0eYJ",
+      "external_url": "https://open.spotify.com/track/6omrZeKIeptUBZGBKL0eYJ",
+      "duration_ms": 246151,
+      "artists": [
+        {
+          "id": "3HnrKwN3HT9BXwyrDWQCFx",
+          "name": "Toshiko Akiyoshi",
+          "uri": "spotify:artist:3HnrKwN3HT9BXwyrDWQCFx",
+          "external_url": "https://open.spotify.com/artist/3HnrKwN3HT9BXwyrDWQCFx"
+        }
+      ],
+      "album": {
+        "id": "6gD9yhEGSeqmb0VLrbc5D9",
+        "name": "Early Numbers",
+        "uri": "spotify:album:6gD9yhEGSeqmb0VLrbc5D9",
+        "external_url": "https://open.spotify.com/album/6gD9yhEGSeqmb0VLrbc5D9",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273584d7629bebd8f4d951aee2e",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02584d7629bebd8f4d951aee2e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851584d7629bebd8f4d951aee2e",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1E35zgIvzDcMtc"
+    }
+  },
+  {
+    "played_at": "2025-09-24T20:59:12.836Z",
+    "track": {
+      "id": "7H8OA9WJOxluxbG4gGjeJv",
+      "name": "Too Soon",
+      "uri": "spotify:track:7H8OA9WJOxluxbG4gGjeJv",
+      "external_url": "https://open.spotify.com/track/7H8OA9WJOxluxbG4gGjeJv",
+      "duration_ms": 193723,
+      "artists": [
+        {
+          "id": "3JlivF1eIeK1qIg6BdFdNO",
+          "name": "Oliver Crosby",
+          "uri": "spotify:artist:3JlivF1eIeK1qIg6BdFdNO",
+          "external_url": "https://open.spotify.com/artist/3JlivF1eIeK1qIg6BdFdNO"
+        },
+        {
+          "id": "2TxDDfPwhWPoKJKhEcnv3h",
+          "name": "Kristoffer Eikrem",
+          "uri": "spotify:artist:2TxDDfPwhWPoKJKhEcnv3h",
+          "external_url": "https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h"
+        }
+      ],
+      "album": {
+        "id": "11MMK0R1S9FCWOHrx5Eo24",
+        "name": "Too Soon",
+        "uri": "spotify:album:11MMK0R1S9FCWOHrx5Eo24",
+        "external_url": "https://open.spotify.com/album/11MMK0R1S9FCWOHrx5Eo24",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27393170d6ea200e3f5cacabed3",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0293170d6ea200e3f5cacabed3",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485193170d6ea200e3f5cacabed3",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1E35zgIvzDcMtc"
+    }
+  },
+  {
+    "played_at": "2025-09-24T20:59:05.446Z",
+    "track": {
+      "id": "5wDyH8jsJYgqmmvanjG39y",
+      "name": "Nostalgia - Rhythm Version",
+      "uri": "spotify:track:5wDyH8jsJYgqmmvanjG39y",
+      "external_url": "https://open.spotify.com/track/5wDyH8jsJYgqmmvanjG39y",
+      "duration_ms": 208953,
+      "artists": [
+        {
+          "id": "5sD7Cf3SaTVcrg81GQi1Xk",
+          "name": "Piero Umiliani",
+          "uri": "spotify:artist:5sD7Cf3SaTVcrg81GQi1Xk",
+          "external_url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
+        }
+      ],
+      "album": {
+        "id": "2eXyEn4qkIeCMXnpzOkg5c",
+        "name": "La ragazza fuori strada",
+        "uri": "spotify:album:2eXyEn4qkIeCMXnpzOkg5c",
+        "external_url": "https://open.spotify.com/album/2eXyEn4qkIeCMXnpzOkg5c",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732b2d0e7625b03dc9a5728ebe",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022b2d0e7625b03dc9a5728ebe",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512b2d0e7625b03dc9a5728ebe",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1E35zgIvzDcMtc"
+    }
+  },
+  {
+    "played_at": "2025-09-24T20:58:54.039Z",
+    "track": {
+      "id": "55Z7zcoqkibfRck7lpayJx",
+      "name": "Tema Barroco",
+      "uri": "spotify:track:55Z7zcoqkibfRck7lpayJx",
+      "external_url": "https://open.spotify.com/track/55Z7zcoqkibfRck7lpayJx",
+      "duration_ms": 174019,
+      "artists": [
+        {
+          "id": "6lYTMu0moMkmypdvatWgYh",
+          "name": "Agustin Pereyra Lucena",
+          "uri": "spotify:artist:6lYTMu0moMkmypdvatWgYh",
+          "external_url": "https://open.spotify.com/artist/6lYTMu0moMkmypdvatWgYh"
+        }
+      ],
+      "album": {
+        "id": "0TJseBa6C8UDnzx3eBxpyG",
+        "name": "La Rana",
+        "uri": "spotify:album:0TJseBa6C8UDnzx3eBxpyG",
+        "external_url": "https://open.spotify.com/album/0TJseBa6C8UDnzx3eBxpyG",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27379708a357c25a8b6fb15bc75",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0279708a357c25a8b6fb15bc75",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485179708a357c25a8b6fb15bc75",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1E35zgIvzDcMtc"
+    }
+  },
+  {
+    "played_at": "2025-09-24T20:58:18.072Z",
+    "track": {
+      "id": "016HKF7A4O7tatoJ9BgZM1",
+      "name": "Say It (Over And Over Again)",
+      "uri": "spotify:track:016HKF7A4O7tatoJ9BgZM1",
+      "external_url": "https://open.spotify.com/track/016HKF7A4O7tatoJ9BgZM1",
+      "duration_ms": 255960,
+      "artists": [
+        {
+          "id": "67PZTxaHKMZBFRUh8wIzCy",
+          "name": "John Coltrane Quartet",
+          "uri": "spotify:artist:67PZTxaHKMZBFRUh8wIzCy",
+          "external_url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+        }
+      ],
+      "album": {
+        "id": "0Ydakb7npXmyTwFLvKc5qt",
+        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
+        "uri": "spotify:album:0Ydakb7npXmyTwFLvKc5qt",
+        "external_url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a3d4884d3433efed2c4a0563",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a3d4884d3433efed2c4a0563",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a3d4884d3433efed2c4a0563",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1E35zgIvzDcMtc"
+    }
+  },
+  {
+    "played_at": "2025-09-24T20:45:14.780Z",
+    "track": {
+      "id": "5eVERkVvJKBgV2FziCoLDE",
+      "name": "Night Lights",
+      "uri": "spotify:track:5eVERkVvJKBgV2FziCoLDE",
+      "external_url": "https://open.spotify.com/track/5eVERkVvJKBgV2FziCoLDE",
+      "duration_ms": 298000,
+      "artists": [
+        {
+          "id": "6tzN9Ew9w6JB0UQr8culs1",
+          "name": "Gerry Mulligan Sextet",
+          "uri": "spotify:artist:6tzN9Ew9w6JB0UQr8culs1",
+          "external_url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
+        }
+      ],
+      "album": {
+        "id": "1uJ9OJIgmgj4ta8xjq9nEJ",
+        "name": "Night Lights (Expanded Edition)",
+        "uri": "spotify:album:1uJ9OJIgmgj4ta8xjq9nEJ",
+        "external_url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2735b49e34e89bc550a8dfd9f2b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e025b49e34e89bc550a8dfd9f2b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048515b49e34e89bc550a8dfd9f2b",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1E35zgIvzDcMtc"
+    }
+  },
+  {
+    "played_at": "2025-09-24T20:28:35.776Z",
+    "track": {
+      "id": "2QHFSR7VUZZfRRwZycKqSa",
+      "name": "Love Theme From Spartacus - Remastered 2023",
+      "uri": "spotify:track:2QHFSR7VUZZfRRwZycKqSa",
+      "external_url": "https://open.spotify.com/track/2QHFSR7VUZZfRRwZycKqSa",
+      "duration_ms": 255097,
+      "artists": [
+        {
+          "id": "33XkS6h90eeK7e6OJHw0mq",
+          "name": "Yusef Lateef",
+          "uri": "spotify:artist:33XkS6h90eeK7e6OJHw0mq",
+          "external_url": "https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq"
+        }
+      ],
+      "album": {
+        "id": "7Dd9kbH46vk4fIA9esp3rf",
+        "name": "Eastern Sounds (Remastered 2023)",
+        "uri": "spotify:album:7Dd9kbH46vk4fIA9esp3rf",
+        "external_url": "https://open.spotify.com/album/7Dd9kbH46vk4fIA9esp3rf",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ff4a38917d1eb6c85752e9ff",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ff4a38917d1eb6c85752e9ff",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ff4a38917d1eb6c85752e9ff",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1E35zgIvzDcMtc"
+    }
+  },
+  {
+    "played_at": "2025-09-24T20:24:56.916Z",
+    "track": {
+      "id": "7qnSmz4abtOXKuYhaRYuPv",
+      "name": "Prélude à Go Round",
+      "uri": "spotify:track:7qnSmz4abtOXKuYhaRYuPv",
+      "external_url": "https://open.spotify.com/track/7qnSmz4abtOXKuYhaRYuPv",
+      "duration_ms": 240360,
+      "artists": [
+        {
+          "id": "7EhUXju6pssa8o3CvFJTew",
+          "name": "Cortex",
+          "uri": "spotify:artist:7EhUXju6pssa8o3CvFJTew",
+          "external_url": "https://open.spotify.com/artist/7EhUXju6pssa8o3CvFJTew"
+        }
+      ],
+      "album": {
+        "id": "74DOWHisu2jlFvPid9YTGB",
+        "name": "Troupeau bleu",
+        "uri": "spotify:album:74DOWHisu2jlFvPid9YTGB",
+        "external_url": "https://open.spotify.com/album/74DOWHisu2jlFvPid9YTGB",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27347a51205061053303846cb79",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0247a51205061053303846cb79",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485147a51205061053303846cb79",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1E35zgIvzDcMtc"
+    }
+  },
+  {
+    "played_at": "2025-09-24T20:21:13.098Z",
+    "track": {
+      "id": "29eLonNk3JNVWqu58cr7rq",
+      "name": "Mahè",
+      "uri": "spotify:track:29eLonNk3JNVWqu58cr7rq",
+      "external_url": "https://open.spotify.com/track/29eLonNk3JNVWqu58cr7rq",
+      "duration_ms": 162299,
+      "artists": [
+        {
+          "id": "5sD7Cf3SaTVcrg81GQi1Xk",
+          "name": "Piero Umiliani",
+          "uri": "spotify:artist:5sD7Cf3SaTVcrg81GQi1Xk",
+          "external_url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
+        }
+      ],
+      "album": {
+        "id": "2Yy70WbCDfjI4yzfska0Yg",
+        "name": "La ragazza dalla pelle di luna",
+        "uri": "spotify:album:2Yy70WbCDfjI4yzfska0Yg",
+        "external_url": "https://open.spotify.com/album/2Yy70WbCDfjI4yzfska0Yg",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273fab13dc56058ea0dfb124dc7",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02fab13dc56058ea0dfb124dc7",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851fab13dc56058ea0dfb124dc7",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1E35zgIvzDcMtc"
+    }
+  },
+  {
+    "played_at": "2025-09-24T20:20:19.674Z",
+    "track": {
+      "id": "057hCbfZV3NcensFMGNrXH",
+      "name": "Love Story - 2024 Remastered Version",
+      "uri": "spotify:track:057hCbfZV3NcensFMGNrXH",
+      "external_url": "https://open.spotify.com/track/057hCbfZV3NcensFMGNrXH",
+      "duration_ms": 129506,
+      "artists": [
+        {
+          "id": "0F80uiQjVrZ1gl7aHsYzc0",
+          "name": "O'Donel Levy",
+          "uri": "spotify:artist:0F80uiQjVrZ1gl7aHsYzc0",
+          "external_url": "https://open.spotify.com/artist/0F80uiQjVrZ1gl7aHsYzc0"
+        }
+      ],
+      "album": {
+        "id": "4RbaDrgQCOI5ZNmqUbCqR3",
+        "name": "Black Velvet (2024 Remastered Version)",
+        "uri": "spotify:album:4RbaDrgQCOI5ZNmqUbCqR3",
+        "external_url": "https://open.spotify.com/album/4RbaDrgQCOI5ZNmqUbCqR3",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273cbe9a06b0cee630988836bf4",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02cbe9a06b0cee630988836bf4",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851cbe9a06b0cee630988836bf4",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1E35zgIvzDcMtc"
+    }
+  },
+  {
+    "played_at": "2025-09-24T20:16:12.134Z",
+    "track": {
+      "id": "4KR5MB0eShbcuSziRInzz9",
+      "name": "ザ ダイアログ ウィズ ヴィヴラホーン",
+      "uri": "spotify:track:4KR5MB0eShbcuSziRInzz9",
+      "external_url": "https://open.spotify.com/track/4KR5MB0eShbcuSziRInzz9",
+      "duration_ms": 395066,
+      "artists": [
+        {
+          "id": "0bjN5TOmQdf0ukUOaYALnI",
+          "name": "猪俣 猛",
+          "uri": "spotify:artist:0bjN5TOmQdf0ukUOaYALnI",
+          "external_url": "https://open.spotify.com/artist/0bjN5TOmQdf0ukUOaYALnI"
+        },
+        {
+          "id": "1SjTXQFCq3FQyX71fogRGd",
+          "name": "増田一郎",
+          "uri": "spotify:artist:1SjTXQFCq3FQyX71fogRGd",
+          "external_url": "https://open.spotify.com/artist/1SjTXQFCq3FQyX71fogRGd"
+        }
+      ],
+      "album": {
+        "id": "4IbYSQQIH2ZUMjn3sAXNOH",
+        "name": "ザ・ダイアログ",
+        "uri": "spotify:album:4IbYSQQIH2ZUMjn3sAXNOH",
+        "external_url": "https://open.spotify.com/album/4IbYSQQIH2ZUMjn3sAXNOH",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731aa044de7360b75b3136badc",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021aa044de7360b75b3136badc",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511aa044de7360b75b3136badc",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1E35zgIvzDcMtc"
+    }
+  },
+  {
     "played_at": "2025-09-24T20:09:56.317Z",
     "track": {
       "id": "46QDQJK3ASYcdRnHnGHcAo",
