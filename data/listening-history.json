@@ -1,5 +1,143 @@
 [
   {
+    "played_at": "2025-09-24T02:27:43.706Z",
+    "track": {
+      "id": "6kucJsz2GR6oN8glzqGdTh",
+      "name": "Main Title - Gone With the Wind",
+      "uri": "spotify:track:6kucJsz2GR6oN8glzqGdTh",
+      "external_url": "https://open.spotify.com/track/6kucJsz2GR6oN8glzqGdTh",
+      "duration_ms": 246773,
+      "artists": [
+        {
+          "id": "3llWEEOW2xNfiKsXXWjrwl",
+          "name": "Max Steiner",
+          "uri": "spotify:artist:3llWEEOW2xNfiKsXXWjrwl",
+          "external_url": "https://open.spotify.com/artist/3llWEEOW2xNfiKsXXWjrwl"
+        }
+      ],
+      "album": {
+        "id": "7Gma34eAAFJ03dAAQMQiiC",
+        "name": "Gone With the Wind (Original Motion Picture Soundtrack)",
+        "uri": "spotify:album:7Gma34eAAFJ03dAAQMQiiC",
+        "external_url": "https://open.spotify.com/album/7Gma34eAAFJ03dAAQMQiiC",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b7a5d0797b0e2559e58c25b2",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b7a5d0797b0e2559e58c25b2",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b7a5d0797b0e2559e58c25b2",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-24T02:22:00.996Z",
+    "track": {
+      "id": "04M2CmravhDSoK3DD5yN1F",
+      "name": "The Only Thing They Fear Is You",
+      "uri": "spotify:track:04M2CmravhDSoK3DD5yN1F",
+      "external_url": "https://open.spotify.com/track/04M2CmravhDSoK3DD5yN1F",
+      "duration_ms": 285665,
+      "artists": [
+        {
+          "id": "1XiP8X4U0vsAVcbK2fkSZl",
+          "name": "The Last Bear Ender",
+          "uri": "spotify:artist:1XiP8X4U0vsAVcbK2fkSZl",
+          "external_url": "https://open.spotify.com/artist/1XiP8X4U0vsAVcbK2fkSZl"
+        }
+      ],
+      "album": {
+        "id": "6jSitfexer6NXtK1NZPbGq",
+        "name": "The Second Year Ender",
+        "uri": "spotify:album:6jSitfexer6NXtK1NZPbGq",
+        "external_url": "https://open.spotify.com/album/6jSitfexer6NXtK1NZPbGq",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273cf8639fcf3b5ab42e0e40cd5",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02cf8639fcf3b5ab42e0e40cd5",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851cf8639fcf3b5ab42e0e40cd5",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1"
+    }
+  },
+  {
+    "played_at": "2025-09-24T02:17:01.063Z",
+    "track": {
+      "id": "0wOzDStuNHNLF0kqL0efVm",
+      "name": "Usurper",
+      "uri": "spotify:track:0wOzDStuNHNLF0kqL0efVm",
+      "external_url": "https://open.spotify.com/track/0wOzDStuNHNLF0kqL0efVm",
+      "duration_ms": 215275,
+      "artists": [
+        {
+          "id": "4pEYvg65h3If6TKxwgzkQw",
+          "name": "NXCRE",
+          "uri": "spotify:artist:4pEYvg65h3If6TKxwgzkQw",
+          "external_url": "https://open.spotify.com/artist/4pEYvg65h3If6TKxwgzkQw"
+        },
+        {
+          "id": "3u5FARONWz8eCYD5hPsd5k",
+          "name": "The Villains",
+          "uri": "spotify:artist:3u5FARONWz8eCYD5hPsd5k",
+          "external_url": "https://open.spotify.com/artist/3u5FARONWz8eCYD5hPsd5k"
+        }
+      ],
+      "album": {
+        "id": "4bJKjt7idniLfdnENsD5bd",
+        "name": "FEAN IS WAR",
+        "uri": "spotify:album:4bJKjt7idniLfdnENsD5bd",
+        "external_url": "https://open.spotify.com/album/4bJKjt7idniLfdnENsD5bd",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2733dde35e27d9ad82c1508ff15",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e023dde35e27d9ad82c1508ff15",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048513dde35e27d9ad82c1508ff15",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1"
+    }
+  },
+  {
     "played_at": "2025-09-24T02:13:31.084Z",
     "track": {
       "id": "4AP3a7eEOlz5sTJiWnv2C6",
