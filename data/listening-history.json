@@ -1,5 +1,353 @@
 [
   {
+    "played_at": "2025-09-23T23:48:19.771Z",
+    "track": {
+      "id": "0OJ0eNR9c53PkfXuwX3DJ0",
+      "name": "Love Theme From \"The Godfather\" - From \"The Godfather\" Soundtrack",
+      "uri": "spotify:track:0OJ0eNR9c53PkfXuwX3DJ0",
+      "external_url": "https://open.spotify.com/track/0OJ0eNR9c53PkfXuwX3DJ0",
+      "duration_ms": 158960,
+      "artists": [
+        {
+          "id": "0RYyGExpy57GLGa1GtFoVo",
+          "name": "Nino Rota",
+          "uri": "spotify:artist:0RYyGExpy57GLGa1GtFoVo",
+          "external_url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
+        },
+        {
+          "id": "0JPH3a8DUy38JvZsdhmEnC",
+          "name": "Carlo Savina",
+          "uri": "spotify:artist:0JPH3a8DUy38JvZsdhmEnC",
+          "external_url": "https://open.spotify.com/artist/0JPH3a8DUy38JvZsdhmEnC"
+        }
+      ],
+      "album": {
+        "id": "7hBpMvQgZzFVt8LQOsUJFY",
+        "name": "Love Theme From \"The Godfather\" / The Godfather Waltz (Main Title)",
+        "uri": "spotify:album:7hBpMvQgZzFVt8LQOsUJFY",
+        "external_url": "https://open.spotify.com/album/7hBpMvQgZzFVt8LQOsUJFY",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f2c15766a9a514511a48f3b1",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f2c15766a9a514511a48f3b1",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f2c15766a9a514511a48f3b1",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T23:48:07.719Z",
+    "track": {
+      "id": "1m4ZjbibTvvmYIJyXAIuxv",
+      "name": "Fawkes the Phoenix",
+      "uri": "spotify:track:1m4ZjbibTvvmYIJyXAIuxv",
+      "external_url": "https://open.spotify.com/track/1m4ZjbibTvvmYIJyXAIuxv",
+      "duration_ms": 225666,
+      "artists": [
+        {
+          "id": "3dRfiJ2650SZu6GbydcHNb",
+          "name": "John Williams",
+          "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb",
+          "external_url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "album": {
+        "id": "5nzzU118YRlXdhjRMb3fq0",
+        "name": "Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack",
+        "uri": "spotify:album:5nzzU118YRlXdhjRMb3fq0",
+        "external_url": "https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a8ef11af00fcd7db4e65ccea",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a8ef11af00fcd7db4e65ccea",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a8ef11af00fcd7db4e65ccea",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T23:43:48.127Z",
+    "track": {
+      "id": "0T1MxDSrTt5VYsUjWNJU3S",
+      "name": "The Lone Ranger Theme",
+      "uri": "spotify:track:0T1MxDSrTt5VYsUjWNJU3S",
+      "external_url": "https://open.spotify.com/track/0T1MxDSrTt5VYsUjWNJU3S",
+      "duration_ms": 203760,
+      "artists": [
+        {
+          "id": "5o5p2QLXvE8tGUAEFBqsym",
+          "name": "John Morgan Orquesta",
+          "uri": "spotify:artist:5o5p2QLXvE8tGUAEFBqsym",
+          "external_url": "https://open.spotify.com/artist/5o5p2QLXvE8tGUAEFBqsym"
+        }
+      ],
+      "album": {
+        "id": "4Skd0k9XJEcKlQohkUHAGE",
+        "name": "El Cine Del Oeste",
+        "uri": "spotify:album:4Skd0k9XJEcKlQohkUHAGE",
+        "external_url": "https://open.spotify.com/album/4Skd0k9XJEcKlQohkUHAGE",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f254703e07791d0ff3ef6e28",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f254703e07791d0ff3ef6e28",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f254703e07791d0ff3ef6e28",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T23:36:40.343Z",
+    "track": {
+      "id": "59Djq0zGIu8HDZ8QXs2oiz",
+      "name": "The Glory Days",
+      "uri": "spotify:track:59Djq0zGIu8HDZ8QXs2oiz",
+      "external_url": "https://open.spotify.com/track/59Djq0zGIu8HDZ8QXs2oiz",
+      "duration_ms": 212133,
+      "artists": [
+        {
+          "id": "4kLvhMAuCloLxoP1aVM7Lr",
+          "name": "Michael Giacchino",
+          "uri": "spotify:artist:4kLvhMAuCloLxoP1aVM7Lr",
+          "external_url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "album": {
+        "id": "5Gqln6CvkfVOlDq1ne1usV",
+        "name": "The Incredibles (Original Motion Picture Soundtrack)",
+        "uri": "spotify:album:5Gqln6CvkfVOlDq1ne1usV",
+        "external_url": "https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27376e95701026bb120b4f6689f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0276e95701026bb120b4f6689f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485176e95701026bb120b4f6689f",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T23:31:42.806Z",
+    "track": {
+      "id": "52cYivJcryreRplexrYTlC",
+      "name": "The Name's Bond... James Bond (From \"Casino Royale\" Soundtrack)",
+      "uri": "spotify:track:52cYivJcryreRplexrYTlC",
+      "external_url": "https://open.spotify.com/track/52cYivJcryreRplexrYTlC",
+      "duration_ms": 169413,
+      "artists": [
+        {
+          "id": "0mCdmt2O8dd8jJWv7m24EE",
+          "name": "David Arnold",
+          "uri": "spotify:artist:0mCdmt2O8dd8jJWv7m24EE",
+          "external_url": "https://open.spotify.com/artist/0mCdmt2O8dd8jJWv7m24EE"
+        }
+      ],
+      "album": {
+        "id": "4GWyNknKDbVB8Lg1IiTy5k",
+        "name": "Casino Royale",
+        "uri": "spotify:album:4GWyNknKDbVB8Lg1IiTy5k",
+        "external_url": "https://open.spotify.com/album/4GWyNknKDbVB8Lg1IiTy5k",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273eb240bec9fd2258f9763ac52",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02eb240bec9fd2258f9763ac52",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851eb240bec9fd2258f9763ac52",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T23:28:53.116Z",
+    "track": {
+      "id": "0GY3drHQDit4o0qZisYNI9",
+      "name": "The Tale Of Viktor Navorski - The Terminal/Soundtrack Version",
+      "uri": "spotify:track:0GY3drHQDit4o0qZisYNI9",
+      "external_url": "https://open.spotify.com/track/0GY3drHQDit4o0qZisYNI9",
+      "duration_ms": 252933,
+      "artists": [
+        {
+          "id": "3dRfiJ2650SZu6GbydcHNb",
+          "name": "John Williams",
+          "uri": "spotify:artist:3dRfiJ2650SZu6GbydcHNb",
+          "external_url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "album": {
+        "id": "4xb9E91t3HaV9yBXco4n9p",
+        "name": "The Terminal",
+        "uri": "spotify:album:4xb9E91t3HaV9yBXco4n9p",
+        "external_url": "https://open.spotify.com/album/4xb9E91t3HaV9yBXco4n9p",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ec7f9025c51658cb6d68ece8",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ec7f9025c51658cb6d68ece8",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ec7f9025c51658cb6d68ece8",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T23:21:30.443Z",
+    "track": {
+      "id": "5SXsXjVJCWeJuf7FHvgBYR",
+      "name": "The Avengers",
+      "uri": "spotify:track:5SXsXjVJCWeJuf7FHvgBYR",
+      "external_url": "https://open.spotify.com/track/5SXsXjVJCWeJuf7FHvgBYR",
+      "duration_ms": 123360,
+      "artists": [
+        {
+          "id": "0Xk15jHKly4c3AhPr5vjoA",
+          "name": "Alan Silvestri",
+          "uri": "spotify:artist:0Xk15jHKly4c3AhPr5vjoA",
+          "external_url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
+        }
+      ],
+      "album": {
+        "id": "3wvpIkfl4oOgZLMaQBWadf",
+        "name": "The Avengers (Original Motion Picture Soundtrack)",
+        "uri": "spotify:album:3wvpIkfl4oOgZLMaQBWadf",
+        "external_url": "https://open.spotify.com/album/3wvpIkfl4oOgZLMaQBWadf",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b0b9aaf0ef903add8f96ff6e",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b0b9aaf0ef903add8f96ff6e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b0b9aaf0ef903add8f96ff6e",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
+    "played_at": "2025-09-23T23:19:32.482Z",
+    "track": {
+      "id": "0hBoE68pNPrh9E8g0bStix",
+      "name": "The New Godfather",
+      "uri": "spotify:track:0hBoE68pNPrh9E8g0bStix",
+      "external_url": "https://open.spotify.com/track/0hBoE68pNPrh9E8g0bStix",
+      "duration_ms": 119013,
+      "artists": [
+        {
+          "id": "0RYyGExpy57GLGa1GtFoVo",
+          "name": "Nino Rota",
+          "uri": "spotify:artist:0RYyGExpy57GLGa1GtFoVo",
+          "external_url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
+        },
+        {
+          "id": "0JPH3a8DUy38JvZsdhmEnC",
+          "name": "Carlo Savina",
+          "uri": "spotify:artist:0JPH3a8DUy38JvZsdhmEnC",
+          "external_url": "https://open.spotify.com/artist/0JPH3a8DUy38JvZsdhmEnC"
+        }
+      ],
+      "album": {
+        "id": "5CeLOKEJeP3EpEdT9v2lep",
+        "name": "The Godfather",
+        "uri": "spotify:album:5CeLOKEJeP3EpEdT9v2lep",
+        "external_url": "https://open.spotify.com/album/5CeLOKEJeP3EpEdT9v2lep",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a0fc6fd292bab2be473cbabe",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a0fc6fd292bab2be473cbabe",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a0fc6fd292bab2be473cbabe",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": null
+  },
+  {
     "played_at": "2025-09-23T22:54:35.141Z",
     "track": {
       "id": "6tJFtthY0rI1x06qb8NjK0",
