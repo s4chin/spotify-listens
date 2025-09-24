@@ -1,5 +1,50 @@
 [
   {
+    "played_at": "2025-09-24T21:08:52.941Z",
+    "track": {
+      "id": "7EjABCgN79oQ30WEXjoZPx",
+      "name": "Watch What Happens - 2024 Remastered Version",
+      "uri": "spotify:track:7EjABCgN79oQ30WEXjoZPx",
+      "external_url": "https://open.spotify.com/track/7EjABCgN79oQ30WEXjoZPx",
+      "duration_ms": 214333,
+      "artists": [
+        {
+          "id": "0F80uiQjVrZ1gl7aHsYzc0",
+          "name": "O'Donel Levy",
+          "uri": "spotify:artist:0F80uiQjVrZ1gl7aHsYzc0",
+          "external_url": "https://open.spotify.com/artist/0F80uiQjVrZ1gl7aHsYzc0"
+        }
+      ],
+      "album": {
+        "id": "4RbaDrgQCOI5ZNmqUbCqR3",
+        "name": "Black Velvet (2024 Remastered Version)",
+        "uri": "spotify:album:4RbaDrgQCOI5ZNmqUbCqR3",
+        "external_url": "https://open.spotify.com/album/4RbaDrgQCOI5ZNmqUbCqR3",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273cbe9a06b0cee630988836bf4",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02cbe9a06b0cee630988836bf4",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851cbe9a06b0cee630988836bf4",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1E35zgIvzDcMtc"
+    }
+  },
+  {
     "played_at": "2025-09-24T21:04:57.776Z",
     "track": {
       "id": "1YOOCK06gvytuk1jPk5XdN",
