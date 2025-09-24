@@ -1,5 +1,242 @@
 [
   {
+    "played_at": "2025-09-24T18:51:05.550Z",
+    "track": {
+      "id": "7zMUCLm1TN9o9JlLISztxO",
+      "name": "Burning Love",
+      "uri": "spotify:track:7zMUCLm1TN9o9JlLISztxO",
+      "external_url": "https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO",
+      "duration_ms": 170293,
+      "artists": [
+        {
+          "id": "43ZHCT0cAZBISjO8DG9PnE",
+          "name": "Elvis Presley",
+          "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE",
+          "external_url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "album": {
+        "id": "3gpHiNAmT5oXVxe6ewTGuN",
+        "name": "Elvis (Fool)",
+        "uri": "spotify:album:3gpHiNAmT5oXVxe6ewTGuN",
+        "external_url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273524e9e45a2e0067b8189a92e",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02524e9e45a2e0067b8189a92e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851524e9e45a2e0067b8189a92e",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DZ06evO2n9pny"
+    }
+  },
+  {
+    "played_at": "2025-09-24T18:47:31.006Z",
+    "track": {
+      "id": "2dKkVF2m160z0RNDN2dddc",
+      "name": "NISSAN ALTIMA",
+      "uri": "spotify:track:2dKkVF2m160z0RNDN2dddc",
+      "external_url": "https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc",
+      "duration_ms": 126832,
+      "artists": [
+        {
+          "id": "4E2rKHVDssGJm2SCDOMMJB",
+          "name": "Doechii",
+          "uri": "spotify:artist:4E2rKHVDssGJm2SCDOMMJB",
+          "external_url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "album": {
+        "id": "60UzB8mOCMpc7xkuJE6Bwc",
+        "name": "Alligator Bites Never Heal",
+        "uri": "spotify:album:60UzB8mOCMpc7xkuJE6Bwc",
+        "external_url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b245099fe26319344ddf6054",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b245099fe26319344ddf6054",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b245099fe26319344ddf6054",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1EVJHK7Q1TBABQ"
+    }
+  },
+  {
+    "played_at": "2025-09-24T18:44:42.069Z",
+    "track": {
+      "id": "52uiJsA4FrtAZlgqxCJwJI",
+      "name": "Milegi Milegi (From \"Stree\")",
+      "uri": "spotify:track:52uiJsA4FrtAZlgqxCJwJI",
+      "external_url": "https://open.spotify.com/track/52uiJsA4FrtAZlgqxCJwJI",
+      "duration_ms": 153744,
+      "artists": [
+        {
+          "id": "5T2I75UlGBcWd5nVyfmL13",
+          "name": "Mika Singh",
+          "uri": "spotify:artist:5T2I75UlGBcWd5nVyfmL13",
+          "external_url": "https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13"
+        },
+        {
+          "id": "1mBydYMVBECdDmMfE2sEUO",
+          "name": "Sachin-Jigar",
+          "uri": "spotify:artist:1mBydYMVBECdDmMfE2sEUO",
+          "external_url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        }
+      ],
+      "album": {
+        "id": "4QtwQTv408l4k8pHOmjSXJ",
+        "name": "Milegi Milegi (From \"Stree\")",
+        "uri": "spotify:album:4QtwQTv408l4k8pHOmjSXJ",
+        "external_url": "https://open.spotify.com/album/4QtwQTv408l4k8pHOmjSXJ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2736d3eb740a87b5c21d2ac345f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e026d3eb740a87b5c21d2ac345f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048516d3eb740a87b5c21d2ac345f",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1EVJHK7Q1TBABQ"
+    }
+  },
+  {
+    "played_at": "2025-09-24T18:42:08.100Z",
+    "track": {
+      "id": "5x72Q1SyiDHJ4IF2mRzfkg",
+      "name": "Gali Gali (From \"Kgf Chapter 1\")",
+      "uri": "spotify:track:5x72Q1SyiDHJ4IF2mRzfkg",
+      "external_url": "https://open.spotify.com/track/5x72Q1SyiDHJ4IF2mRzfkg",
+      "duration_ms": 174711,
+      "artists": [
+        {
+          "id": "5f4QpKfy7ptCHwTqspnSJI",
+          "name": "Neha Kakkar",
+          "uri": "spotify:artist:5f4QpKfy7ptCHwTqspnSJI",
+          "external_url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "id": "4f7KfxeHq9BiylGmyXepGt",
+          "name": "Tanishk Bagchi",
+          "uri": "spotify:artist:4f7KfxeHq9BiylGmyXepGt",
+          "external_url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        }
+      ],
+      "album": {
+        "id": "3Oe64PObgpmPRNTLutlHqj",
+        "name": "Gali Gali (From \"Kgf Chapter 1\")",
+        "uri": "spotify:album:3Oe64PObgpmPRNTLutlHqj",
+        "external_url": "https://open.spotify.com/album/3Oe64PObgpmPRNTLutlHqj",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2736e7b5231a4e16b8013f49e1a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e026e7b5231a4e16b8013f49e1a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048516e7b5231a4e16b8013f49e1a",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1EVJHK7Q1TBABQ"
+    }
+  },
+  {
+    "played_at": "2025-09-24T18:39:13.560Z",
+    "track": {
+      "id": "6FNdzxV9g4NaINrejBTPUi",
+      "name": "Pelota",
+      "uri": "spotify:track:6FNdzxV9g4NaINrejBTPUi",
+      "external_url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi",
+      "duration_ms": 167972,
+      "artists": [
+        {
+          "id": "2mVVjNmdjXZZDvhgQWiakk",
+          "name": "Khruangbin",
+          "uri": "spotify:artist:2mVVjNmdjXZZDvhgQWiakk",
+          "external_url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "album": {
+        "id": "2IzUZlhtBvPQYs74KeG6fb",
+        "name": "Mordechai",
+        "uri": "spotify:album:2IzUZlhtBvPQYs74KeG6fb",
+        "external_url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f94c16116e5e2e850af916d3",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f94c16116e5e2e850af916d3",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f94c16116e5e2e850af916d3",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1EVJHK7Q1TBABQ"
+    }
+  },
+  {
     "played_at": "2025-09-24T02:27:43.706Z",
     "track": {
       "id": "6kucJsz2GR6oN8glzqGdTh",
@@ -4213,249 +4450,6 @@
           {
             "height": 64,
             "url": "https://i.scdn.co/image/ab67616d0000485192f2d790c6a97b195f66d51e",
-            "width": 64
-          }
-        ]
-      }
-    },
-    "context": {
-      "type": "playlist",
-      "uri": "spotify:playlist:37i9dQZF1EVJHK7Q1TBABQ"
-    }
-  },
-  {
-    "played_at": "2025-09-22T00:07:52.954Z",
-    "track": {
-      "id": "2igwFfvr1OAGX9SKDCPBwO",
-      "name": "Empire State Of Mind",
-      "uri": "spotify:track:2igwFfvr1OAGX9SKDCPBwO",
-      "external_url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO",
-      "duration_ms": 276920,
-      "artists": [
-        {
-          "id": "3nFkdlSjzX9mRTtwJOzDYB",
-          "name": "JAY-Z",
-          "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB",
-          "external_url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "id": "3DiDSECUqqY1AuBP8qtaIa",
-          "name": "Alicia Keys",
-          "uri": "spotify:artist:3DiDSECUqqY1AuBP8qtaIa",
-          "external_url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "album": {
-        "id": "2CUT0104gySOIvqwtXeFsX",
-        "name": "The Blueprint 3",
-        "uri": "spotify:album:2CUT0104gySOIvqwtXeFsX",
-        "external_url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02fec1b815bb3c50a64a90fd10",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851fec1b815bb3c50a64a90fd10",
-            "width": 64
-          }
-        ]
-      }
-    },
-    "context": {
-      "type": "playlist",
-      "uri": "spotify:playlist:37i9dQZF1EVJHK7Q1TBABQ"
-    }
-  },
-  {
-    "played_at": "2025-09-22T00:05:43.930Z",
-    "track": {
-      "id": "2igwFfvr1OAGX9SKDCPBwO",
-      "name": "Empire State Of Mind",
-      "uri": "spotify:track:2igwFfvr1OAGX9SKDCPBwO",
-      "external_url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO",
-      "duration_ms": 276920,
-      "artists": [
-        {
-          "id": "3nFkdlSjzX9mRTtwJOzDYB",
-          "name": "JAY-Z",
-          "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB",
-          "external_url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "id": "3DiDSECUqqY1AuBP8qtaIa",
-          "name": "Alicia Keys",
-          "uri": "spotify:artist:3DiDSECUqqY1AuBP8qtaIa",
-          "external_url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "album": {
-        "id": "2CUT0104gySOIvqwtXeFsX",
-        "name": "The Blueprint 3",
-        "uri": "spotify:album:2CUT0104gySOIvqwtXeFsX",
-        "external_url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02fec1b815bb3c50a64a90fd10",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851fec1b815bb3c50a64a90fd10",
-            "width": 64
-          }
-        ]
-      }
-    },
-    "context": {
-      "type": "playlist",
-      "uri": "spotify:playlist:37i9dQZF1EVJHK7Q1TBABQ"
-    }
-  },
-  {
-    "played_at": "2025-09-22T00:02:51.596Z",
-    "track": {
-      "id": "2FAZskT9yRjp2Oow9szJD8",
-      "name": "The Days - NOTION Remix",
-      "uri": "spotify:track:2FAZskT9yRjp2Oow9szJD8",
-      "external_url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8",
-      "duration_ms": 233229,
-      "artists": [
-        {
-          "id": "5bQ3wFgekuIMIcWJuxkqLK",
-          "name": "Chrystal",
-          "uri": "spotify:artist:5bQ3wFgekuIMIcWJuxkqLK",
-          "external_url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
-        },
-        {
-          "id": "1uRVM0wBdtyEuU582EeKJM",
-          "name": "NOTION",
-          "uri": "spotify:artist:1uRVM0wBdtyEuU582EeKJM",
-          "external_url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
-        }
-      ],
-      "album": {
-        "id": "15gT6ikjvzrlIxQ5eTpqLJ",
-        "name": "The Days (NOTION Remix)",
-        "uri": "spotify:album:15gT6ikjvzrlIxQ5eTpqLJ",
-        "external_url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2739041b9965925059507fb44af",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e029041b9965925059507fb44af",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048519041b9965925059507fb44af",
-            "width": 64
-          }
-        ]
-      }
-    },
-    "context": {
-      "type": "playlist",
-      "uri": "spotify:playlist:37i9dQZF1EVJHK7Q1TBABQ"
-    }
-  },
-  {
-    "played_at": "2025-09-21T23:58:58.004Z",
-    "track": {
-      "id": "13MF2TYuyfITClL1R2ei6e",
-      "name": "BOOMBAYAH",
-      "uri": "spotify:track:13MF2TYuyfITClL1R2ei6e",
-      "external_url": "https://open.spotify.com/track/13MF2TYuyfITClL1R2ei6e",
-      "duration_ms": 240793,
-      "artists": [
-        {
-          "id": "41MozSoPIsD1dJM0CLPjZF",
-          "name": "BLACKPINK",
-          "uri": "spotify:artist:41MozSoPIsD1dJM0CLPjZF",
-          "external_url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "album": {
-        "id": "0FOOodYRlj7gzh7q7IjmNZ",
-        "name": "SQUARE ONE",
-        "uri": "spotify:album:0FOOodYRlj7gzh7q7IjmNZ",
-        "external_url": "https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273ff4ec21d7817138cabcc19bc",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02ff4ec21d7817138cabcc19bc",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851ff4ec21d7817138cabcc19bc",
-            "width": 64
-          }
-        ]
-      }
-    },
-    "context": {
-      "type": "playlist",
-      "uri": "spotify:playlist:37i9dQZF1EVJHK7Q1TBABQ"
-    }
-  },
-  {
-    "played_at": "2025-09-21T23:55:26.355Z",
-    "track": {
-      "id": "13MF2TYuyfITClL1R2ei6e",
-      "name": "BOOMBAYAH",
-      "uri": "spotify:track:13MF2TYuyfITClL1R2ei6e",
-      "external_url": "https://open.spotify.com/track/13MF2TYuyfITClL1R2ei6e",
-      "duration_ms": 240793,
-      "artists": [
-        {
-          "id": "41MozSoPIsD1dJM0CLPjZF",
-          "name": "BLACKPINK",
-          "uri": "spotify:artist:41MozSoPIsD1dJM0CLPjZF",
-          "external_url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "album": {
-        "id": "0FOOodYRlj7gzh7q7IjmNZ",
-        "name": "SQUARE ONE",
-        "uri": "spotify:album:0FOOodYRlj7gzh7q7IjmNZ",
-        "external_url": "https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273ff4ec21d7817138cabcc19bc",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02ff4ec21d7817138cabcc19bc",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851ff4ec21d7817138cabcc19bc",
             "width": 64
           }
         ]
