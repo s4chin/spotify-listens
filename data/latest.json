@@ -1,5 +1,50 @@
 [
   {
+    "played_at": "2025-09-25T09:51:36.017Z",
+    "track": {
+      "id": "6V3SNkvi4BnfmZU0j7s9TQ",
+      "name": "Scourge of Iron",
+      "uri": "spotify:track:6V3SNkvi4BnfmZU0j7s9TQ",
+      "external_url": "https://open.spotify.com/track/6V3SNkvi4BnfmZU0j7s9TQ",
+      "duration_ms": 284400,
+      "artists": [
+        {
+          "id": "0yLwGBQiBqhXOvmTfH2A7n",
+          "name": "Cannibal Corpse",
+          "uri": "spotify:artist:0yLwGBQiBqhXOvmTfH2A7n",
+          "external_url": "https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n"
+        }
+      ],
+      "album": {
+        "id": "7AaZ6zhZXDKilXqsJ52g8b",
+        "name": "Torture",
+        "uri": "spotify:album:7AaZ6zhZXDKilXqsJ52g8b",
+        "external_url": "https://open.spotify.com/album/7AaZ6zhZXDKilXqsJ52g8b",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732d3c8436b5316b6074f407f9",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022d3c8436b5316b6074f407f9",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512d3c8436b5316b6074f407f9",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1"
+    }
+  },
+  {
     "played_at": "2025-09-25T01:27:56.234Z",
     "track": {
       "id": "2wKxXx8y3cZYQSPQykRAHX",
@@ -4456,48 +4501,6 @@
           {
             "height": 64,
             "url": "https://i.scdn.co/image/ab67616d0000485102add2c77fb6999e311a3248",
-            "width": 64
-          }
-        ]
-      }
-    },
-    "context": null
-  },
-  {
-    "played_at": "2025-09-23T00:51:31.016Z",
-    "track": {
-      "id": "6XcoiOYiNbIxzpt8WRxq8Z",
-      "name": "Du hast",
-      "uri": "spotify:track:6XcoiOYiNbIxzpt8WRxq8Z",
-      "external_url": "https://open.spotify.com/track/6XcoiOYiNbIxzpt8WRxq8Z",
-      "duration_ms": 235600,
-      "artists": [
-        {
-          "id": "6wWVKhxIU2cEi0K81v7HvP",
-          "name": "Rammstein",
-          "uri": "spotify:artist:6wWVKhxIU2cEi0K81v7HvP",
-          "external_url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "album": {
-        "id": "6hh5ax5BomINXGoi4q7FDP",
-        "name": "Sehnsucht (Anniversary Edition - Remastered)",
-        "uri": "spotify:album:6hh5ax5BomINXGoi4q7FDP",
-        "external_url": "https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273030cda12ffbebd6561c1c0f0",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02030cda12ffbebd6561c1c0f0",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851030cda12ffbebd6561c1c0f0",
             "width": 64
           }
         ]
