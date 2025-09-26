@@ -1,5 +1,959 @@
 [
   {
+    "played_at": "2025-09-26T04:06:33.149Z",
+    "track": {
+      "id": "2uaP0Vpeiu3tMCOPkkv4iV",
+      "name": "Aap Jaisa Koi - Trap Mix",
+      "uri": "spotify:track:2uaP0Vpeiu3tMCOPkkv4iV",
+      "external_url": "https://open.spotify.com/track/2uaP0Vpeiu3tMCOPkkv4iV",
+      "duration_ms": 142633,
+      "artists": [
+        {
+          "id": "2u2vVyG4FLtNI8sMUMnIPm",
+          "name": "Farooq Got Audio",
+          "uri": "spotify:artist:2u2vVyG4FLtNI8sMUMnIPm",
+          "external_url": "https://open.spotify.com/artist/2u2vVyG4FLtNI8sMUMnIPm"
+        },
+        {
+          "id": "5hW7KULTxMzCDnqaV7LASR",
+          "name": "Nazia Hassan",
+          "uri": "spotify:artist:5hW7KULTxMzCDnqaV7LASR",
+          "external_url": "https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR"
+        },
+        {
+          "id": "0J3qMXOTkJBJ2dxIXjyTns",
+          "name": "Feroz Khan",
+          "uri": "spotify:artist:0J3qMXOTkJBJ2dxIXjyTns",
+          "external_url": "https://open.spotify.com/artist/0J3qMXOTkJBJ2dxIXjyTns"
+        }
+      ],
+      "album": {
+        "id": "72jirEvddM98n5YIPBbvkl",
+        "name": "Aap Jaisa Koi (Trap Mix)",
+        "uri": "spotify:album:72jirEvddM98n5YIPBbvkl",
+        "external_url": "https://open.spotify.com/album/72jirEvddM98n5YIPBbvkl",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b090513286304393949f3d18",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b090513286304393949f3d18",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b090513286304393949f3d18",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DZ06evO1qdarS"
+    }
+  },
+  {
+    "played_at": "2025-09-26T04:04:06.415Z",
+    "track": {
+      "id": "0Wq9AQg7SANhoOnD0b4H5Q",
+      "name": "Silsila Ye Chahat Ka - Drill Mix",
+      "uri": "spotify:track:0Wq9AQg7SANhoOnD0b4H5Q",
+      "external_url": "https://open.spotify.com/track/0Wq9AQg7SANhoOnD0b4H5Q",
+      "duration_ms": 143541,
+      "artists": [
+        {
+          "id": "2u2vVyG4FLtNI8sMUMnIPm",
+          "name": "Farooq Got Audio",
+          "uri": "spotify:artist:2u2vVyG4FLtNI8sMUMnIPm",
+          "external_url": "https://open.spotify.com/artist/2u2vVyG4FLtNI8sMUMnIPm"
+        },
+        {
+          "id": "0oOet2f43PA68X5RxKobEy",
+          "name": "Shreya Ghoshal",
+          "uri": "spotify:artist:0oOet2f43PA68X5RxKobEy",
+          "external_url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "album": {
+        "id": "14wMsGVgtYAkoVEfh92i0O",
+        "name": "Silsila Ye Chahat Ka (Drill Mix)",
+        "uri": "spotify:album:14wMsGVgtYAkoVEfh92i0O",
+        "external_url": "https://open.spotify.com/album/14wMsGVgtYAkoVEfh92i0O",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2733b615baad7888a3cc9ca8130",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e023b615baad7888a3cc9ca8130",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048513b615baad7888a3cc9ca8130",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DZ06evO1qdarS"
+    }
+  },
+  {
+    "played_at": "2025-09-26T04:01:42.439Z",
+    "track": {
+      "id": "0pEDTJit1zTTcuRs5nubFd",
+      "name": "Kehna Hi Kya - Trap Mix",
+      "uri": "spotify:track:0pEDTJit1zTTcuRs5nubFd",
+      "external_url": "https://open.spotify.com/track/0pEDTJit1zTTcuRs5nubFd",
+      "duration_ms": 207230,
+      "artists": [
+        {
+          "id": "2u2vVyG4FLtNI8sMUMnIPm",
+          "name": "Farooq Got Audio",
+          "uri": "spotify:artist:2u2vVyG4FLtNI8sMUMnIPm",
+          "external_url": "https://open.spotify.com/artist/2u2vVyG4FLtNI8sMUMnIPm"
+        },
+        {
+          "id": "4Wvw8PC3M8SQte331Dlloq",
+          "name": "Chitra",
+          "uri": "spotify:artist:4Wvw8PC3M8SQte331Dlloq",
+          "external_url": "https://open.spotify.com/artist/4Wvw8PC3M8SQte331Dlloq"
+        }
+      ],
+      "album": {
+        "id": "4oCNw187t6uKjUs2M1B9N2",
+        "name": "Kehna Hi Kya (Trap Mix)",
+        "uri": "spotify:album:4oCNw187t6uKjUs2M1B9N2",
+        "external_url": "https://open.spotify.com/album/4oCNw187t6uKjUs2M1B9N2",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27345870d59286addff70e85395",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0245870d59286addff70e85395",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485145870d59286addff70e85395",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DZ06evO1qdarS"
+    }
+  },
+  {
+    "played_at": "2025-09-26T03:57:15.118Z",
+    "track": {
+      "id": "1xdys1YlW4DekMJUZAYgl0",
+      "name": "Chori Chori Chupke Chupke - Trap Mix",
+      "uri": "spotify:track:1xdys1YlW4DekMJUZAYgl0",
+      "external_url": "https://open.spotify.com/track/1xdys1YlW4DekMJUZAYgl0",
+      "duration_ms": 168415,
+      "artists": [
+        {
+          "id": "2u2vVyG4FLtNI8sMUMnIPm",
+          "name": "Farooq Got Audio",
+          "uri": "spotify:artist:2u2vVyG4FLtNI8sMUMnIPm",
+          "external_url": "https://open.spotify.com/artist/2u2vVyG4FLtNI8sMUMnIPm"
+        },
+        {
+          "id": "3gBKY0y3dFFVRqicLnVZYz",
+          "name": "Alka Yagnik",
+          "uri": "spotify:artist:3gBKY0y3dFFVRqicLnVZYz",
+          "external_url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        },
+        {
+          "id": "7guD32ltIhsA1tHdf7IVe0",
+          "name": "Babul Supriyo",
+          "uri": "spotify:artist:7guD32ltIhsA1tHdf7IVe0",
+          "external_url": "https://open.spotify.com/artist/7guD32ltIhsA1tHdf7IVe0"
+        }
+      ],
+      "album": {
+        "id": "6GvYCEAOG95mpLU2P7YZmX",
+        "name": "Chori Chori Chupke Chupke (Trap Mix)",
+        "uri": "spotify:album:6GvYCEAOG95mpLU2P7YZmX",
+        "external_url": "https://open.spotify.com/album/6GvYCEAOG95mpLU2P7YZmX",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273eaa9f0d62979a5a669259e3e",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02eaa9f0d62979a5a669259e3e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851eaa9f0d62979a5a669259e3e",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DZ06evO1qdarS"
+    }
+  },
+  {
+    "played_at": "2025-09-26T03:54:26.774Z",
+    "track": {
+      "id": "1m8XlKdeFlPEM22F9UqBW1",
+      "name": "Roop Suhana Lagta Hai - Farooq Got Audio Mix",
+      "uri": "spotify:track:1m8XlKdeFlPEM22F9UqBW1",
+      "external_url": "https://open.spotify.com/track/1m8XlKdeFlPEM22F9UqBW1",
+      "duration_ms": 170578,
+      "artists": [
+        {
+          "id": "2ae6PxICSOZHvjqiCcgon8",
+          "name": "S. P. Balasubrahmanyam",
+          "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8",
+          "external_url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "id": "2IUtwMti1OiT3lkW6RubgH",
+          "name": "K. S. Chithra",
+          "uri": "spotify:artist:2IUtwMti1OiT3lkW6RubgH",
+          "external_url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "id": "2u2vVyG4FLtNI8sMUMnIPm",
+          "name": "Farooq Got Audio",
+          "uri": "spotify:artist:2u2vVyG4FLtNI8sMUMnIPm",
+          "external_url": "https://open.spotify.com/artist/2u2vVyG4FLtNI8sMUMnIPm"
+        }
+      ],
+      "album": {
+        "id": "0qcvMU9wm0F5HvH1YVQWYy",
+        "name": "Bollywood Trap Mix",
+        "uri": "spotify:album:0qcvMU9wm0F5HvH1YVQWYy",
+        "external_url": "https://open.spotify.com/album/0qcvMU9wm0F5HvH1YVQWYy",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273de61331c267164e3dddcc29d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02de61331c267164e3dddcc29d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851de61331c267164e3dddcc29d",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DZ06evO1qdarS"
+    }
+  },
+  {
+    "played_at": "2025-09-26T03:51:35.163Z",
+    "track": {
+      "id": "1QB5vCjXaeCPw79yrZjpu6",
+      "name": "Zeehale Muskin - Drill Mix",
+      "uri": "spotify:track:1QB5vCjXaeCPw79yrZjpu6",
+      "external_url": "https://open.spotify.com/track/1QB5vCjXaeCPw79yrZjpu6",
+      "duration_ms": 140678,
+      "artists": [
+        {
+          "id": "2u2vVyG4FLtNI8sMUMnIPm",
+          "name": "Farooq Got Audio",
+          "uri": "spotify:artist:2u2vVyG4FLtNI8sMUMnIPm",
+          "external_url": "https://open.spotify.com/artist/2u2vVyG4FLtNI8sMUMnIPm"
+        },
+        {
+          "id": "61JrslREXq98hurYL2hYoc",
+          "name": "Lata Mangeshkar",
+          "uri": "spotify:artist:61JrslREXq98hurYL2hYoc",
+          "external_url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "id": "3M8OKPsQvP1U8WkG5lY4Vy",
+          "name": "Shabbir Kumar",
+          "uri": "spotify:artist:3M8OKPsQvP1U8WkG5lY4Vy",
+          "external_url": "https://open.spotify.com/artist/3M8OKPsQvP1U8WkG5lY4Vy"
+        }
+      ],
+      "album": {
+        "id": "1zT66ubxraDFg6d21rRaKw",
+        "name": "Zeehale Muskin (Drill Mix)",
+        "uri": "spotify:album:1zT66ubxraDFg6d21rRaKw",
+        "external_url": "https://open.spotify.com/album/1zT66ubxraDFg6d21rRaKw",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c3a587ccd465330f1504e2df",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c3a587ccd465330f1504e2df",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c3a587ccd465330f1504e2df",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DZ06evO1qdarS"
+    }
+  },
+  {
+    "played_at": "2025-09-26T03:49:15.652Z",
+    "track": {
+      "id": "2xKsajWN0Dw22inpFPNYuc",
+      "name": "Yeh Vaada Raha - Trap Mix",
+      "uri": "spotify:track:2xKsajWN0Dw22inpFPNYuc",
+      "external_url": "https://open.spotify.com/track/2xKsajWN0Dw22inpFPNYuc",
+      "duration_ms": 135000,
+      "artists": [
+        {
+          "id": "2u2vVyG4FLtNI8sMUMnIPm",
+          "name": "Farooq Got Audio",
+          "uri": "spotify:artist:2u2vVyG4FLtNI8sMUMnIPm",
+          "external_url": "https://open.spotify.com/artist/2u2vVyG4FLtNI8sMUMnIPm"
+        },
+        {
+          "id": "0GF4shudTAFv8ak9eWdd4Y",
+          "name": "Kishore Kumar",
+          "uri": "spotify:artist:0GF4shudTAFv8ak9eWdd4Y",
+          "external_url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "id": "5as8A4G47Ohu9NSWs3Je8U",
+          "name": "Asha Bhosle",
+          "uri": "spotify:artist:5as8A4G47Ohu9NSWs3Je8U",
+          "external_url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "album": {
+        "id": "1g1CPBqXlwWc6QfM2TWZMO",
+        "name": "Yeh Vaada Raha (Trap Mix)",
+        "uri": "spotify:album:1g1CPBqXlwWc6QfM2TWZMO",
+        "external_url": "https://open.spotify.com/album/1g1CPBqXlwWc6QfM2TWZMO",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b8fea1ef118d1d653d6cfc56",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b8fea1ef118d1d653d6cfc56",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b8fea1ef118d1d653d6cfc56",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DZ06evO1qdarS"
+    }
+  },
+  {
+    "played_at": "2025-09-26T03:46:58.785Z",
+    "track": {
+      "id": "3dOFItEv1O2M8Si0jMAKnk",
+      "name": "O Meri Mehbooba - Trap Mix",
+      "uri": "spotify:track:3dOFItEv1O2M8Si0jMAKnk",
+      "external_url": "https://open.spotify.com/track/3dOFItEv1O2M8Si0jMAKnk",
+      "duration_ms": 168749,
+      "artists": [
+        {
+          "id": "2u2vVyG4FLtNI8sMUMnIPm",
+          "name": "Farooq Got Audio",
+          "uri": "spotify:artist:2u2vVyG4FLtNI8sMUMnIPm",
+          "external_url": "https://open.spotify.com/artist/2u2vVyG4FLtNI8sMUMnIPm"
+        },
+        {
+          "id": "0gXDpqwYNDODn7fB0RDN8J",
+          "name": "Mohammed Rafi",
+          "uri": "spotify:artist:0gXDpqwYNDODn7fB0RDN8J",
+          "external_url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "album": {
+        "id": "7BPvET2ADljwz6kC1mDl6u",
+        "name": "O Meri Mehbooba (Trap Mix)",
+        "uri": "spotify:album:7BPvET2ADljwz6kC1mDl6u",
+        "external_url": "https://open.spotify.com/album/7BPvET2ADljwz6kC1mDl6u",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e49dcf5fd3be9d42c8311912",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e49dcf5fd3be9d42c8311912",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e49dcf5fd3be9d42c8311912",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DZ06evO1qdarS"
+    }
+  },
+  {
+    "played_at": "2025-09-26T03:46:58.506Z",
+    "track": {
+      "id": "2LKNm8n09wdbEw9mYU82Gp",
+      "name": "Kabhi Aar Kabhi Paar - Farooq Got Audio Mix",
+      "uri": "spotify:track:2LKNm8n09wdbEw9mYU82Gp",
+      "external_url": "https://open.spotify.com/track/2LKNm8n09wdbEw9mYU82Gp",
+      "duration_ms": 154545,
+      "artists": [
+        {
+          "id": "0Ury0QIiBOlJmsdYUiCTfQ",
+          "name": "Shamshad Begum",
+          "uri": "spotify:artist:0Ury0QIiBOlJmsdYUiCTfQ",
+          "external_url": "https://open.spotify.com/artist/0Ury0QIiBOlJmsdYUiCTfQ"
+        },
+        {
+          "id": "2u2vVyG4FLtNI8sMUMnIPm",
+          "name": "Farooq Got Audio",
+          "uri": "spotify:artist:2u2vVyG4FLtNI8sMUMnIPm",
+          "external_url": "https://open.spotify.com/artist/2u2vVyG4FLtNI8sMUMnIPm"
+        }
+      ],
+      "album": {
+        "id": "0qcvMU9wm0F5HvH1YVQWYy",
+        "name": "Bollywood Trap Mix",
+        "uri": "spotify:album:0qcvMU9wm0F5HvH1YVQWYy",
+        "external_url": "https://open.spotify.com/album/0qcvMU9wm0F5HvH1YVQWYy",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273de61331c267164e3dddcc29d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02de61331c267164e3dddcc29d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851de61331c267164e3dddcc29d",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DZ06evO1qdarS"
+    }
+  },
+  {
+    "played_at": "2025-09-26T03:43:42.849Z",
+    "track": {
+      "id": "2LKNm8n09wdbEw9mYU82Gp",
+      "name": "Kabhi Aar Kabhi Paar - Farooq Got Audio Mix",
+      "uri": "spotify:track:2LKNm8n09wdbEw9mYU82Gp",
+      "external_url": "https://open.spotify.com/track/2LKNm8n09wdbEw9mYU82Gp",
+      "duration_ms": 154545,
+      "artists": [
+        {
+          "id": "0Ury0QIiBOlJmsdYUiCTfQ",
+          "name": "Shamshad Begum",
+          "uri": "spotify:artist:0Ury0QIiBOlJmsdYUiCTfQ",
+          "external_url": "https://open.spotify.com/artist/0Ury0QIiBOlJmsdYUiCTfQ"
+        },
+        {
+          "id": "2u2vVyG4FLtNI8sMUMnIPm",
+          "name": "Farooq Got Audio",
+          "uri": "spotify:artist:2u2vVyG4FLtNI8sMUMnIPm",
+          "external_url": "https://open.spotify.com/artist/2u2vVyG4FLtNI8sMUMnIPm"
+        }
+      ],
+      "album": {
+        "id": "0qcvMU9wm0F5HvH1YVQWYy",
+        "name": "Bollywood Trap Mix",
+        "uri": "spotify:album:0qcvMU9wm0F5HvH1YVQWYy",
+        "external_url": "https://open.spotify.com/album/0qcvMU9wm0F5HvH1YVQWYy",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273de61331c267164e3dddcc29d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02de61331c267164e3dddcc29d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851de61331c267164e3dddcc29d",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DZ06evO1qdarS"
+    }
+  },
+  {
+    "played_at": "2025-09-26T03:41:10.580Z",
+    "track": {
+      "id": "6UBtMwbaWN8eSkwGlQytCW",
+      "name": "Koi Shahri Babu - Trap Mix",
+      "uri": "spotify:track:6UBtMwbaWN8eSkwGlQytCW",
+      "external_url": "https://open.spotify.com/track/6UBtMwbaWN8eSkwGlQytCW",
+      "duration_ms": 127792,
+      "artists": [
+        {
+          "id": "5as8A4G47Ohu9NSWs3Je8U",
+          "name": "Asha Bhosle",
+          "uri": "spotify:artist:5as8A4G47Ohu9NSWs3Je8U",
+          "external_url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "id": "2u2vVyG4FLtNI8sMUMnIPm",
+          "name": "Farooq Got Audio",
+          "uri": "spotify:artist:2u2vVyG4FLtNI8sMUMnIPm",
+          "external_url": "https://open.spotify.com/artist/2u2vVyG4FLtNI8sMUMnIPm"
+        }
+      ],
+      "album": {
+        "id": "6Upr0x1Aagm2D0uUc0gfAN",
+        "name": "Koi Shahri Babu - Single (Trap Mix)",
+        "uri": "spotify:album:6Upr0x1Aagm2D0uUc0gfAN",
+        "external_url": "https://open.spotify.com/album/6Upr0x1Aagm2D0uUc0gfAN",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273596f42d3a6a2968a81b3f9b6",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02596f42d3a6a2968a81b3f9b6",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851596f42d3a6a2968a81b3f9b6",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DZ06evO1qdarS"
+    }
+  },
+  {
+    "played_at": "2025-09-26T03:39:02.810Z",
+    "track": {
+      "id": "1LTPChtiDrZcSbsUSg4Iqe",
+      "name": "Yaad Piya Ki Aane Lagi - Trap Mix",
+      "uri": "spotify:track:1LTPChtiDrZcSbsUSg4Iqe",
+      "external_url": "https://open.spotify.com/track/1LTPChtiDrZcSbsUSg4Iqe",
+      "duration_ms": 151818,
+      "artists": [
+        {
+          "id": "2u2vVyG4FLtNI8sMUMnIPm",
+          "name": "Farooq Got Audio",
+          "uri": "spotify:artist:2u2vVyG4FLtNI8sMUMnIPm",
+          "external_url": "https://open.spotify.com/artist/2u2vVyG4FLtNI8sMUMnIPm"
+        },
+        {
+          "id": "6nAVJkZZ55jorZmO5bpezv",
+          "name": "Falguni Pathak",
+          "uri": "spotify:artist:6nAVJkZZ55jorZmO5bpezv",
+          "external_url": "https://open.spotify.com/artist/6nAVJkZZ55jorZmO5bpezv"
+        }
+      ],
+      "album": {
+        "id": "7E2W3Unzc8xvsbH5sb8t0V",
+        "name": "Yaad Piya Ki Aane Lagi (Trap Mix)",
+        "uri": "spotify:album:7E2W3Unzc8xvsbH5sb8t0V",
+        "external_url": "https://open.spotify.com/album/7E2W3Unzc8xvsbH5sb8t0V",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27334f1bcb874aaf0ce78568abe",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0234f1bcb874aaf0ce78568abe",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485134f1bcb874aaf0ce78568abe",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DZ06evO1qdarS"
+    }
+  },
+  {
+    "played_at": "2025-09-26T03:36:30.433Z",
+    "track": {
+      "id": "2bottsTzZLAyKfj75n1V8Y",
+      "name": "Sajna Hai Mujhe - Trap Mix",
+      "uri": "spotify:track:2bottsTzZLAyKfj75n1V8Y",
+      "external_url": "https://open.spotify.com/track/2bottsTzZLAyKfj75n1V8Y",
+      "duration_ms": 144411,
+      "artists": [
+        {
+          "id": "5as8A4G47Ohu9NSWs3Je8U",
+          "name": "Asha Bhosle",
+          "uri": "spotify:artist:5as8A4G47Ohu9NSWs3Je8U",
+          "external_url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "id": "0y633xrd3L3rSxpZ4awgnG",
+          "name": "Ravindra Jain",
+          "uri": "spotify:artist:0y633xrd3L3rSxpZ4awgnG",
+          "external_url": "https://open.spotify.com/artist/0y633xrd3L3rSxpZ4awgnG"
+        },
+        {
+          "id": "2u2vVyG4FLtNI8sMUMnIPm",
+          "name": "Farooq Got Audio",
+          "uri": "spotify:artist:2u2vVyG4FLtNI8sMUMnIPm",
+          "external_url": "https://open.spotify.com/artist/2u2vVyG4FLtNI8sMUMnIPm"
+        }
+      ],
+      "album": {
+        "id": "5ZNoQPDKiLehWSOuKGb5P3",
+        "name": "Sajna Hai Mujhe (Trap Mix)",
+        "uri": "spotify:album:5ZNoQPDKiLehWSOuKGb5P3",
+        "external_url": "https://open.spotify.com/album/5ZNoQPDKiLehWSOuKGb5P3",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2730fe9b5bd2b406dd82b509d89",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e020fe9b5bd2b406dd82b509d89",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048510fe9b5bd2b406dd82b509d89",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DZ06evO1qdarS"
+    }
+  },
+  {
+    "played_at": "2025-09-26T03:34:05.283Z",
+    "track": {
+      "id": "1v8cUyl35jpq3Mffzdm7Ju",
+      "name": "Bindiya Chamkegi - Farooq Got Audio Mix",
+      "uri": "spotify:track:1v8cUyl35jpq3Mffzdm7Ju",
+      "external_url": "https://open.spotify.com/track/1v8cUyl35jpq3Mffzdm7Ju",
+      "duration_ms": 124285,
+      "artists": [
+        {
+          "id": "61JrslREXq98hurYL2hYoc",
+          "name": "Lata Mangeshkar",
+          "uri": "spotify:artist:61JrslREXq98hurYL2hYoc",
+          "external_url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "id": "2u2vVyG4FLtNI8sMUMnIPm",
+          "name": "Farooq Got Audio",
+          "uri": "spotify:artist:2u2vVyG4FLtNI8sMUMnIPm",
+          "external_url": "https://open.spotify.com/artist/2u2vVyG4FLtNI8sMUMnIPm"
+        }
+      ],
+      "album": {
+        "id": "0qcvMU9wm0F5HvH1YVQWYy",
+        "name": "Bollywood Trap Mix",
+        "uri": "spotify:album:0qcvMU9wm0F5HvH1YVQWYy",
+        "external_url": "https://open.spotify.com/album/0qcvMU9wm0F5HvH1YVQWYy",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273de61331c267164e3dddcc29d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02de61331c267164e3dddcc29d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851de61331c267164e3dddcc29d",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DZ06evO1qdarS"
+    }
+  },
+  {
+    "played_at": "2025-09-26T03:32:10.698Z",
+    "track": {
+      "id": "1v8cUyl35jpq3Mffzdm7Ju",
+      "name": "Bindiya Chamkegi - Farooq Got Audio Mix",
+      "uri": "spotify:track:1v8cUyl35jpq3Mffzdm7Ju",
+      "external_url": "https://open.spotify.com/track/1v8cUyl35jpq3Mffzdm7Ju",
+      "duration_ms": 124285,
+      "artists": [
+        {
+          "id": "61JrslREXq98hurYL2hYoc",
+          "name": "Lata Mangeshkar",
+          "uri": "spotify:artist:61JrslREXq98hurYL2hYoc",
+          "external_url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "id": "2u2vVyG4FLtNI8sMUMnIPm",
+          "name": "Farooq Got Audio",
+          "uri": "spotify:artist:2u2vVyG4FLtNI8sMUMnIPm",
+          "external_url": "https://open.spotify.com/artist/2u2vVyG4FLtNI8sMUMnIPm"
+        }
+      ],
+      "album": {
+        "id": "0qcvMU9wm0F5HvH1YVQWYy",
+        "name": "Bollywood Trap Mix",
+        "uri": "spotify:album:0qcvMU9wm0F5HvH1YVQWYy",
+        "external_url": "https://open.spotify.com/album/0qcvMU9wm0F5HvH1YVQWYy",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273de61331c267164e3dddcc29d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02de61331c267164e3dddcc29d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851de61331c267164e3dddcc29d",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DZ06evO1qdarS"
+    }
+  },
+  {
+    "played_at": "2025-09-26T03:31:52.355Z",
+    "track": {
+      "id": "3E2VR14TJ2EtEfTwYxuRSJ",
+      "name": "Honthon Mein Aisi Baat - Trap Mix",
+      "uri": "spotify:track:3E2VR14TJ2EtEfTwYxuRSJ",
+      "external_url": "https://open.spotify.com/track/3E2VR14TJ2EtEfTwYxuRSJ",
+      "duration_ms": 120825,
+      "artists": [
+        {
+          "id": "61JrslREXq98hurYL2hYoc",
+          "name": "Lata Mangeshkar",
+          "uri": "spotify:artist:61JrslREXq98hurYL2hYoc",
+          "external_url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "id": "2u2vVyG4FLtNI8sMUMnIPm",
+          "name": "Farooq Got Audio",
+          "uri": "spotify:artist:2u2vVyG4FLtNI8sMUMnIPm",
+          "external_url": "https://open.spotify.com/artist/2u2vVyG4FLtNI8sMUMnIPm"
+        }
+      ],
+      "album": {
+        "id": "6witLCPkc8YgYMZGcyF50T",
+        "name": "Honthon Mein Aisi Baat - Single (Trap Mix)",
+        "uri": "spotify:album:6witLCPkc8YgYMZGcyF50T",
+        "external_url": "https://open.spotify.com/album/6witLCPkc8YgYMZGcyF50T",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27386b06988e9406af3294da111",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0286b06988e9406af3294da111",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485186b06988e9406af3294da111",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DZ06evO1qdarS"
+    }
+  },
+  {
+    "played_at": "2025-09-26T03:29:50.809Z",
+    "track": {
+      "id": "3gfZUC4mcyCPuhWDM2hkDR",
+      "name": "Thoda Resham Lagta Hai - Trap Mix",
+      "uri": "spotify:track:3gfZUC4mcyCPuhWDM2hkDR",
+      "external_url": "https://open.spotify.com/track/3gfZUC4mcyCPuhWDM2hkDR",
+      "duration_ms": 140605,
+      "artists": [
+        {
+          "id": "61JrslREXq98hurYL2hYoc",
+          "name": "Lata Mangeshkar",
+          "uri": "spotify:artist:61JrslREXq98hurYL2hYoc",
+          "external_url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "id": "2u2vVyG4FLtNI8sMUMnIPm",
+          "name": "Farooq Got Audio",
+          "uri": "spotify:artist:2u2vVyG4FLtNI8sMUMnIPm",
+          "external_url": "https://open.spotify.com/artist/2u2vVyG4FLtNI8sMUMnIPm"
+        }
+      ],
+      "album": {
+        "id": "2US7DzMkMYEBHQZRz5D56j",
+        "name": "Thoda Resham Lagta Hai - Single (Trap Mix)",
+        "uri": "spotify:album:2US7DzMkMYEBHQZRz5D56j",
+        "external_url": "https://open.spotify.com/album/2US7DzMkMYEBHQZRz5D56j",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273fde37beb0e4bc275160cfc57",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02fde37beb0e4bc275160cfc57",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851fde37beb0e4bc275160cfc57",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DZ06evO1qdarS"
+    }
+  },
+  {
+    "played_at": "2025-09-26T03:27:45.823Z",
+    "track": {
+      "id": "51PLF5XmYToy9m1ioIBBFp",
+      "name": "Mehbooba Mehbooba - Remix",
+      "uri": "spotify:track:51PLF5XmYToy9m1ioIBBFp",
+      "external_url": "https://open.spotify.com/track/51PLF5XmYToy9m1ioIBBFp",
+      "duration_ms": 160754,
+      "artists": [
+        {
+          "id": "2u2vVyG4FLtNI8sMUMnIPm",
+          "name": "Farooq Got Audio",
+          "uri": "spotify:artist:2u2vVyG4FLtNI8sMUMnIPm",
+          "external_url": "https://open.spotify.com/artist/2u2vVyG4FLtNI8sMUMnIPm"
+        },
+        {
+          "id": "2JSYASbWU5Y0fVpts3Eq7g",
+          "name": "R. D. Burman",
+          "uri": "spotify:artist:2JSYASbWU5Y0fVpts3Eq7g",
+          "external_url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        }
+      ],
+      "album": {
+        "id": "7skqsql1JmWg4mlMpi4aAy",
+        "name": "Mehbooba Mehbooba (Remix)",
+        "uri": "spotify:album:7skqsql1JmWg4mlMpi4aAy",
+        "external_url": "https://open.spotify.com/album/7skqsql1JmWg4mlMpi4aAy",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f17e4cb6b504dc130d5dcc18",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f17e4cb6b504dc130d5dcc18",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f17e4cb6b504dc130d5dcc18",
+            "width": 64
+          }
+        ]
+      }
+    },
+    "context": {
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DZ06evO1qdarS"
+    }
+  },
+  {
     "played_at": "2025-09-26T03:24:48.549Z",
     "track": {
       "id": "5jIZ1t15F9pp0WV9eMHY1i",
