@@ -1,4 +1,4 @@
-name: Update Spotify (private JSON, public site)
+name: Update Spotify
 
 on:
   schedule:

@@ -19,59 +19,73 @@ function groupByDate(items) {
 }
 
 const css = `
+:root { color-scheme: light dark; }
+* { box-sizing: border-box; }
 body {
   font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif;
-  margin: 2rem;
+  margin: 1.5rem;
 }
 header {
   display: flex;
+  justify-content: center;
   align-items: baseline;
-  gap: 1rem;
+  gap: .75rem;
 }
 h1 {
   margin: 0;
+  font-size: 1.1rem;
 }
-.grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 16px;
+#content {
+  max-width: 640px;
+  margin: 1.25rem auto 2rem;
+}
+.group {
   margin-top: 1rem;
 }
-.card {
-  border: 1px solid #e5e7eb;
-  border-radius: 14px;
-  padding: 12px;
+.group summary {
+  cursor: pointer;
+  font-weight: 600;
+  margin-bottom: .25rem;
+}
+.group summary small {
+  color: #6b7280;
+  font-weight: 400;
+}
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
   display: flex;
-  gap: 12px;
+  flex-direction: column;
+  gap: 6px;
+}
+.row {
+  display: flex;
   align-items: center;
+  gap: 10px;
+  text-decoration: none;
 }
-.cover {
-  width: 64px;
-  height: 64px;
-  border-radius: 10px;
+.thumb {
+  width: 36px;
+  height: 36px;
+  border-radius: 6px;
   object-fit: cover;
+  flex: none;
+  background: #e5e7eb;
 }
-.meta {
-  display: grid;
-  gap: 4px;
+.line {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 .title {
   font-weight: 600;
 }
-.artist,
-.when {
+.artist {
   color: #6b7280;
-  font-size: .9rem;
 }
-.group {
-  margin-top: 2rem;
-}
-.group h2 {
-  font-size: 1rem;
-  color: #374151;
-  margin: 0 0 .5rem 0;
-  text-transform: uppercase;
-  letter-spacing: .06em;
+.time {
+  color: #6b7280;
 }
 a {
   color: inherit;
@@ -83,7 +97,6 @@ a {
   const raw = await fs.readFile(INPUT, 'utf8');
   const all = JSON.parse(raw);
   const items = all.slice(0, 100); // only render a recent slice if desired
-  const groups = groupByDate(items);
 
   let html = `<!doctype html>
 <html lang="en">
@@ -101,19 +114,21 @@ a {
   <div id="content">
 `;
 
+  const groups = groupByDate(items);
   for (const [date, arr] of groups) {
-    html += `<section class="group"><h2>${date}</h2><div class="grid">`;
+    html += `<details class="group" open><summary>${date} <small>(${arr.length})</small></summary><ul class="list">`;
     for (const it of arr) {
-      const art = it.track.album?.images?.[0]?.url || '';
+      const art =
+        it.track.album?.images?.[2]?.url ||
+        it.track.album?.images?.[1]?.url ||
+        it.track.album?.images?.[0]?.url ||
+        '';
       const artists = (it.track.artists || []).map(a => a.name).join(', ');
-      const when = new Date(it.played_at).toLocaleTimeString([], {
-        hour: '2-digit',
-        minute: '2-digit',
-      });
-      const href = it.track.external_url || '#';
-      html += `<a class="card" href="${href}" target="_blank" rel="noopener"><img class="cover" src="${art}" alt="album art"><div class="meta"><div class="title">${it.track.name}</div><div class="artist">${artists}</div><div class="when">${when}</div></div></a>`;
+      const href = it.track.external_url || it.track.external_urls?.spotify || '#';
+      const when = new Date(it.played_at).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+      html += `<li><a class="row" href="${href}" target="_blank" rel="noopener"><img class="thumb" src="${art}" alt=""><div class="line"><span class="title">${it.track.name}</span> — <span class="artist">${artists}</span> · <time class="time" datetime="${it.played_at}">${when}</time></div></a></li>`;
     }
-    html += `</div></section>`;
+    html += `</ul></details>`;
   }
 
   html += `
