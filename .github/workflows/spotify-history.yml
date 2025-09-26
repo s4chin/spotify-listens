@@ -1,39 +1,63 @@
-name: Update Spotify History (hourly)
+name: Update Spotify (private JSON, public site)
 
 on:
-    schedule:
-        - cron: '0 * * * *'
-    workflow_dispatch: {}
+  schedule:
+    - cron: '0 * * * *' # hourly, UTC
+  workflow_dispatch: {}
 
 permissions:
-    contents: write
+  contents: write
 
 jobs:
-    update-history:
-        runs-on: ubuntu-latest
-        steps:
-            - name: Checkout
-              uses: actions/checkout@v4
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
 
-            - name: Setup Node
-              uses: actions/setup-node@v4
-              with:
-                  node-version: 20
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
 
-            - name: Install deps (none needed)
-              run: echo "No dependencies"
+      - name: Clone private data repo
+        env:
+          GH_TOKEN: ${{ secrets.DATA_REPO_TOKEN }}
+        run: |
+          git clone https://x-access-token:${GH_TOKEN}@github.com/s4chin/consumption-data.git private-data
 
-            - name: Fetch Spotify recently played & update JSON
-              env:
-                  SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
-                  SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-                  SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-              run: node scripts/update-listening-history.mjs
+      - name: Update JSON in private repo
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          DATA_PATH: ${{ github.workspace }}/private-data/listening-history.json
+          LATEST_PATH: ${{ github.workspace }}/private-data/latest.json
+        run: node scripts/update-listening-history.mjs
 
-            - name: Commit & push changes (if any)
-              run: |
-                  git config user.name "github-actions"
-                  git config user.email "github-actions@github.com"
-                  git add data/listening-history.json data/latest.json
-                  git diff --cached --quiet && echo "No changes" || git commit -m "chore: update Spotify history $(date -u +'%Y-%m-%d %H:%M:%S')"
-                  git push
+      - name: Build static page (no public JSON)
+        env:
+          DATA_PATH: ${{ github.workspace }}/private-data/listening-history.json
+          OUTPUT: spotify-history.html
+        run: node scripts/build-page.mjs
+
+      - name: Commit & push public site changes
+        run: |
+          if [[ -n $(git status --porcelain) ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add spotify-history.html
+            git commit -m "site: rebuild from private JSON [skip ci]"
+            git push
+          fi
+
+      - name: Commit & push updated JSON to private repo
+        working-directory: private-data
+        env:
+          GH_TOKEN: ${{ secrets.DATA_REPO_TOKEN }}
+        run: |
+          if [[ -n $(git status --porcelain) ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add listening-history.json latest.json || true
+            git commit -m "data: update listening history"
+            git push https://x-access-token:${GH_TOKEN}@github.com/s4chin/consumption-data.git HEAD:main
+          fi

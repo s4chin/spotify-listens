@@ -15,8 +15,8 @@ if (!CLIENT_ID || !CLIENT_SECRET || !REFRESH_TOKEN) {
 }
 
 
-const DATA_PATH = 'data/listening-history.json';
-const LATEST_PATH = 'data/latest.json';
+const DATA_PATH = process.env.DATA_PATH;
+const LATEST_PATH = process.env.LATEST_PATH;
 
 
 async function getAccessToken() {
