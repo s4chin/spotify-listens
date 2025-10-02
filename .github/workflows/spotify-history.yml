@@ -41,10 +41,12 @@ jobs:
 
       - name: Commit & push public site changes
         run: |
-          if [[ -n $(git status --porcelain) ]]; then
+          git add spotify-history.html
+          if git diff --cached --quiet --exit-code; then
+            echo "No changes to public site. Skipping commit."
+          else
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add spotify-history.html
             git commit -m "site: rebuild from private JSON [skip ci]"
             git push
           fi
@@ -54,10 +56,12 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.DATA_REPO_TOKEN }}
         run: |
-          if [[ -n $(git status --porcelain) ]]; then
+          git add listening-history.json latest.json || true
+          if git diff --cached --quiet --exit-code; then
+            echo "No JSON changes. Skipping commit."
+          else
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add listening-history.json latest.json || true
             git commit -m "data: update listening history"
             git push https://x-access-token:${GH_TOKEN}@github.com/s4chin/consumption-data.git HEAD:main
           fi
